@@ -8,6 +8,9 @@
 
 /* Begin PBXBuildFile section */
 		DA77CC301C995D7D00764B3F /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA77CC2F1C995D7D00764B3F /* main.swift */; };
+		DA77CC411C995DC100764B3F /* 136. Single Number.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA77CC3E1C995DC100764B3F /* 136. Single Number.swift */; };
+		DA77CC421C995DC100764B3F /* 258. Add Digits.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA77CC3F1C995DC100764B3F /* 258. Add Digits.swift */; };
+		DA77CC431C995DC100764B3F /* 292. Nim Game.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA77CC401C995DC100764B3F /* 292. Nim Game.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +28,9 @@
 /* Begin PBXFileReference section */
 		DA77CC2C1C995D7D00764B3F /* leetcode-swift-cpp */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "leetcode-swift-cpp"; sourceTree = BUILT_PRODUCTS_DIR; };
 		DA77CC2F1C995D7D00764B3F /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		DA77CC3E1C995DC100764B3F /* 136. Single Number.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "136. Single Number.swift"; path = "leetcode-swift-cpp/136. Single Number.swift"; sourceTree = SOURCE_ROOT; };
+		DA77CC3F1C995DC100764B3F /* 258. Add Digits.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "258. Add Digits.swift"; path = "leetcode-swift-cpp/258. Add Digits.swift"; sourceTree = SOURCE_ROOT; };
+		DA77CC401C995DC100764B3F /* 292. Nim Game.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "292. Nim Game.swift"; path = "leetcode-swift-cpp/292. Nim Game.swift"; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,9 +63,29 @@
 		DA77CC2E1C995D7D00764B3F /* leetcode-swift-cpp */ = {
 			isa = PBXGroup;
 			children = (
+				DA77CC3A1C995D9800764B3F /* problems */,
 				DA77CC2F1C995D7D00764B3F /* main.swift */,
 			);
 			path = "leetcode-swift-cpp";
+			sourceTree = "<group>";
+		};
+		DA77CC391C995D9800764B3F /* algorithms */ = {
+			isa = PBXGroup;
+			children = (
+				DA77CC3E1C995DC100764B3F /* 136. Single Number.swift */,
+				DA77CC3F1C995DC100764B3F /* 258. Add Digits.swift */,
+				DA77CC401C995DC100764B3F /* 292. Nim Game.swift */,
+			);
+			name = algorithms;
+			sourceTree = "<group>";
+		};
+		DA77CC3A1C995D9800764B3F /* problems */ = {
+			isa = PBXGroup;
+			children = (
+				DA77CC391C995D9800764B3F /* algorithms */,
+			);
+			name = problems;
+			path = "../../leetcode-swift+cpp/leetcode-swift+cpp";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -119,7 +145,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DA77CC411C995DC100764B3F /* 136. Single Number.swift in Sources */,
+				DA77CC421C995DC100764B3F /* 258. Add Digits.swift in Sources */,
 				DA77CC301C995D7D00764B3F /* main.swift in Sources */,
+				DA77CC431C995DC100764B3F /* 292. Nim Game.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
