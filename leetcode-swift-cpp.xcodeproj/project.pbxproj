@@ -20,6 +20,7 @@
 		DAFA12CA1C9A56F20034E3DC /* 122. Best Time to Buy and Sell Stock II.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAFA12C91C9A56F20034E3DC /* 122. Best Time to Buy and Sell Stock II.swift */; };
 		DAFA12CC1C9A57410034E3DC /* 238. Product of Array Except Self.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAFA12CB1C9A57410034E3DC /* 238. Product of Array Except Self.swift */; };
 		DAFA12CE1C9A57710034E3DC /* 260. Single Number III.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAFA12CD1C9A57710034E3DC /* 260. Single Number III.swift */; };
+		DAFA12D01C9A78070034E3DC /* 144. Binary Tree Preorder Traversal.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAFA12CF1C9A78070034E3DC /* 144. Binary Tree Preorder Traversal.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -49,6 +50,7 @@
 		DAFA12C91C9A56F20034E3DC /* 122. Best Time to Buy and Sell Stock II.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "122. Best Time to Buy and Sell Stock II.swift"; sourceTree = SOURCE_ROOT; };
 		DAFA12CB1C9A57410034E3DC /* 238. Product of Array Except Self.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "238. Product of Array Except Self.swift"; sourceTree = SOURCE_ROOT; };
 		DAFA12CD1C9A57710034E3DC /* 260. Single Number III.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "260. Single Number III.swift"; sourceTree = SOURCE_ROOT; };
+		DAFA12CF1C9A78070034E3DC /* 144. Binary Tree Preorder Traversal.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "144. Binary Tree Preorder Traversal.swift"; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				DAFA12C91C9A56F20034E3DC /* 122. Best Time to Buy and Sell Stock II.swift */,
 				DAFA12CB1C9A57410034E3DC /* 238. Product of Array Except Self.swift */,
 				DAFA12CD1C9A57710034E3DC /* 260. Single Number III.swift */,
+				DAFA12CF1C9A78070034E3DC /* 144. Binary Tree Preorder Traversal.swift */,
 			);
 			name = algorithms;
 			sourceTree = "<group>";
@@ -179,6 +182,7 @@
 				DAFA12C41C9A567E0034E3DC /* 217. Contains Duplicate.swift in Sources */,
 				DAFA12C11C9A56550034E3DC /* 169. Majority Element.swift in Sources */,
 				DAFA12BF1C9A56100034E3DC /* 319. Bulb Switcher.swift in Sources */,
+				DAFA12D01C9A78070034E3DC /* 144. Binary Tree Preorder Traversal.swift in Sources */,
 				DAFA12C61C9A569E0034E3DC /* 171. Excel Sheet Column Number.swift in Sources */,
 				DA77CC301C995D7D00764B3F /* main.swift in Sources */,
 				DAFA12CE1C9A57710034E3DC /* 260. Single Number III.swift in Sources */,
