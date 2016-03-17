@@ -11,6 +11,15 @@
 		DA77CC411C995DC100764B3F /* 136. Single Number.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA77CC3E1C995DC100764B3F /* 136. Single Number.swift */; };
 		DA77CC421C995DC100764B3F /* 258. Add Digits.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA77CC3F1C995DC100764B3F /* 258. Add Digits.swift */; };
 		DA77CC431C995DC100764B3F /* 292. Nim Game.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA77CC401C995DC100764B3F /* 292. Nim Game.swift */; };
+		DAFA12BD1C9A55E00034E3DC /* 268. Missing Number.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAFA12BC1C9A55E00034E3DC /* 268. Missing Number.swift */; };
+		DAFA12BF1C9A56100034E3DC /* 319. Bulb Switcher.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAFA12BE1C9A56100034E3DC /* 319. Bulb Switcher.swift */; };
+		DAFA12C11C9A56550034E3DC /* 169. Majority Element.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAFA12C01C9A56550034E3DC /* 169. Majority Element.swift */; };
+		DAFA12C41C9A567E0034E3DC /* 217. Contains Duplicate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAFA12C31C9A567E0034E3DC /* 217. Contains Duplicate.swift */; };
+		DAFA12C61C9A569E0034E3DC /* 171. Excel Sheet Column Number.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAFA12C51C9A569E0034E3DC /* 171. Excel Sheet Column Number.swift */; };
+		DAFA12C81C9A56D10034E3DC /* 242. Valid Anagram.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAFA12C71C9A56D10034E3DC /* 242. Valid Anagram.swift */; };
+		DAFA12CA1C9A56F20034E3DC /* 122. Best Time to Buy and Sell Stock II.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAFA12C91C9A56F20034E3DC /* 122. Best Time to Buy and Sell Stock II.swift */; };
+		DAFA12CC1C9A57410034E3DC /* 238. Product of Array Except Self.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAFA12CB1C9A57410034E3DC /* 238. Product of Array Except Self.swift */; };
+		DAFA12CE1C9A57710034E3DC /* 260. Single Number III.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAFA12CD1C9A57710034E3DC /* 260. Single Number III.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -31,6 +40,15 @@
 		DA77CC3E1C995DC100764B3F /* 136. Single Number.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "136. Single Number.swift"; path = "leetcode-swift-cpp/136. Single Number.swift"; sourceTree = SOURCE_ROOT; };
 		DA77CC3F1C995DC100764B3F /* 258. Add Digits.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "258. Add Digits.swift"; path = "leetcode-swift-cpp/258. Add Digits.swift"; sourceTree = SOURCE_ROOT; };
 		DA77CC401C995DC100764B3F /* 292. Nim Game.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "292. Nim Game.swift"; path = "leetcode-swift-cpp/292. Nim Game.swift"; sourceTree = SOURCE_ROOT; };
+		DAFA12BC1C9A55E00034E3DC /* 268. Missing Number.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "268. Missing Number.swift"; sourceTree = SOURCE_ROOT; };
+		DAFA12BE1C9A56100034E3DC /* 319. Bulb Switcher.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "319. Bulb Switcher.swift"; sourceTree = SOURCE_ROOT; };
+		DAFA12C01C9A56550034E3DC /* 169. Majority Element.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "169. Majority Element.swift"; sourceTree = SOURCE_ROOT; };
+		DAFA12C31C9A567E0034E3DC /* 217. Contains Duplicate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "217. Contains Duplicate.swift"; sourceTree = SOURCE_ROOT; };
+		DAFA12C51C9A569E0034E3DC /* 171. Excel Sheet Column Number.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "171. Excel Sheet Column Number.swift"; sourceTree = SOURCE_ROOT; };
+		DAFA12C71C9A56D10034E3DC /* 242. Valid Anagram.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "242. Valid Anagram.swift"; sourceTree = SOURCE_ROOT; };
+		DAFA12C91C9A56F20034E3DC /* 122. Best Time to Buy and Sell Stock II.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "122. Best Time to Buy and Sell Stock II.swift"; sourceTree = SOURCE_ROOT; };
+		DAFA12CB1C9A57410034E3DC /* 238. Product of Array Except Self.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "238. Product of Array Except Self.swift"; sourceTree = SOURCE_ROOT; };
+		DAFA12CD1C9A57710034E3DC /* 260. Single Number III.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "260. Single Number III.swift"; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,6 +93,15 @@
 				DA77CC3E1C995DC100764B3F /* 136. Single Number.swift */,
 				DA77CC3F1C995DC100764B3F /* 258. Add Digits.swift */,
 				DA77CC401C995DC100764B3F /* 292. Nim Game.swift */,
+				DAFA12BC1C9A55E00034E3DC /* 268. Missing Number.swift */,
+				DAFA12BE1C9A56100034E3DC /* 319. Bulb Switcher.swift */,
+				DAFA12C01C9A56550034E3DC /* 169. Majority Element.swift */,
+				DAFA12C31C9A567E0034E3DC /* 217. Contains Duplicate.swift */,
+				DAFA12C51C9A569E0034E3DC /* 171. Excel Sheet Column Number.swift */,
+				DAFA12C71C9A56D10034E3DC /* 242. Valid Anagram.swift */,
+				DAFA12C91C9A56F20034E3DC /* 122. Best Time to Buy and Sell Stock II.swift */,
+				DAFA12CB1C9A57410034E3DC /* 238. Product of Array Except Self.swift */,
+				DAFA12CD1C9A57710034E3DC /* 260. Single Number III.swift */,
 			);
 			name = algorithms;
 			sourceTree = "<group>";
@@ -147,7 +174,16 @@
 			files = (
 				DA77CC411C995DC100764B3F /* 136. Single Number.swift in Sources */,
 				DA77CC421C995DC100764B3F /* 258. Add Digits.swift in Sources */,
+				DAFA12CA1C9A56F20034E3DC /* 122. Best Time to Buy and Sell Stock II.swift in Sources */,
+				DAFA12C81C9A56D10034E3DC /* 242. Valid Anagram.swift in Sources */,
+				DAFA12C41C9A567E0034E3DC /* 217. Contains Duplicate.swift in Sources */,
+				DAFA12C11C9A56550034E3DC /* 169. Majority Element.swift in Sources */,
+				DAFA12BF1C9A56100034E3DC /* 319. Bulb Switcher.swift in Sources */,
+				DAFA12C61C9A569E0034E3DC /* 171. Excel Sheet Column Number.swift in Sources */,
 				DA77CC301C995D7D00764B3F /* main.swift in Sources */,
+				DAFA12CE1C9A57710034E3DC /* 260. Single Number III.swift in Sources */,
+				DAFA12CC1C9A57410034E3DC /* 238. Product of Array Except Self.swift in Sources */,
+				DAFA12BD1C9A55E00034E3DC /* 268. Missing Number.swift in Sources */,
 				DA77CC431C995DC100764B3F /* 292. Nim Game.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -268,6 +304,7 @@
 				DA77CC351C995D7D00764B3F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
