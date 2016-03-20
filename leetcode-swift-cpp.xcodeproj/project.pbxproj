@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		120672E91C9EA89D00D24F63 /* 94. Binary Tree Inorder Traversal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 120672E81C9EA89D00D24F63 /* 94. Binary Tree Inorder Traversal.swift */; };
 		DA77CC301C995D7D00764B3F /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA77CC2F1C995D7D00764B3F /* main.swift */; };
 		DA77CC411C995DC100764B3F /* 136. Single Number.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA77CC3E1C995DC100764B3F /* 136. Single Number.swift */; };
 		DA77CC421C995DC100764B3F /* 258. Add Digits.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA77CC3F1C995DC100764B3F /* 258. Add Digits.swift */; };
@@ -36,6 +37,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		120672E81C9EA89D00D24F63 /* 94. Binary Tree Inorder Traversal.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "94. Binary Tree Inorder Traversal.swift"; sourceTree = SOURCE_ROOT; };
 		DA77CC2C1C995D7D00764B3F /* leetcode-swift-cpp */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "leetcode-swift-cpp"; sourceTree = BUILT_PRODUCTS_DIR; };
 		DA77CC2F1C995D7D00764B3F /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		DA77CC3E1C995DC100764B3F /* 136. Single Number.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "136. Single Number.swift"; path = "leetcode-swift-cpp/136. Single Number.swift"; sourceTree = SOURCE_ROOT; };
@@ -105,6 +107,7 @@
 				DA77CC3E1C995DC100764B3F /* 136. Single Number.swift */,
 				DA77CC3F1C995DC100764B3F /* 258. Add Digits.swift */,
 				DA77CC401C995DC100764B3F /* 292. Nim Game.swift */,
+				120672E81C9EA89D00D24F63 /* 94. Binary Tree Inorder Traversal.swift */,
 			);
 			name = algorithms;
 			sourceTree = "<group>";
@@ -185,6 +188,7 @@
 				DAFA12DC1C9A79320034E3DC /* 268. Missing Number.swift in Sources */,
 				DAFA12DB1C9A79320034E3DC /* 122. Best Time to Buy and Sell Stock II.swift in Sources */,
 				DAFA12DF1C9A79320034E3DC /* 144. Binary Tree Preorder Traversal.swift in Sources */,
+				120672E91C9EA89D00D24F63 /* 94. Binary Tree Inorder Traversal.swift in Sources */,
 				DA77CC431C995DC100764B3F /* 292. Nim Game.swift in Sources */,
 				DAFA12DE1C9A79320034E3DC /* 171. Excel Sheet Column Number.swift in Sources */,
 				DAFA12E11C9A79320034E3DC /* 238. Product of Array Except Self.swift in Sources */,
