@@ -12,6 +12,7 @@
 		DA77CC411C995DC100764B3F /* 136. Single Number.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA77CC3E1C995DC100764B3F /* 136. Single Number.swift */; };
 		DA77CC421C995DC100764B3F /* 258. Add Digits.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA77CC3F1C995DC100764B3F /* 258. Add Digits.swift */; };
 		DA77CC431C995DC100764B3F /* 292. Nim Game.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA77CC401C995DC100764B3F /* 292. Nim Game.swift */; };
+		DA830ED91C9FB1A00073674F /* 318. Maximum Product of Word Lengths.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA830ED81C9FB1A00073674F /* 318. Maximum Product of Word Lengths.swift */; };
 		DAFA12DB1C9A79320034E3DC /* 122. Best Time to Buy and Sell Stock II.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAFA12D11C9A79320034E3DC /* 122. Best Time to Buy and Sell Stock II.swift */; };
 		DAFA12DC1C9A79320034E3DC /* 268. Missing Number.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAFA12D21C9A79320034E3DC /* 268. Missing Number.swift */; };
 		DAFA12DD1C9A79320034E3DC /* 169. Majority Element.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAFA12D31C9A79320034E3DC /* 169. Majority Element.swift */; };
@@ -43,6 +44,7 @@
 		DA77CC3E1C995DC100764B3F /* 136. Single Number.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "136. Single Number.swift"; path = "leetcode-swift-cpp/136. Single Number.swift"; sourceTree = SOURCE_ROOT; };
 		DA77CC3F1C995DC100764B3F /* 258. Add Digits.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "258. Add Digits.swift"; path = "leetcode-swift-cpp/258. Add Digits.swift"; sourceTree = SOURCE_ROOT; };
 		DA77CC401C995DC100764B3F /* 292. Nim Game.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "292. Nim Game.swift"; path = "leetcode-swift-cpp/292. Nim Game.swift"; sourceTree = SOURCE_ROOT; };
+		DA830ED81C9FB1A00073674F /* 318. Maximum Product of Word Lengths.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "318. Maximum Product of Word Lengths.swift"; path = "leetcode-swift-cpp/318. Maximum Product of Word Lengths.swift"; sourceTree = SOURCE_ROOT; };
 		DAFA12D11C9A79320034E3DC /* 122. Best Time to Buy and Sell Stock II.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "122. Best Time to Buy and Sell Stock II.swift"; path = "leetcode-swift-cpp/122. Best Time to Buy and Sell Stock II.swift"; sourceTree = SOURCE_ROOT; };
 		DAFA12D21C9A79320034E3DC /* 268. Missing Number.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "268. Missing Number.swift"; path = "leetcode-swift-cpp/268. Missing Number.swift"; sourceTree = SOURCE_ROOT; };
 		DAFA12D31C9A79320034E3DC /* 169. Majority Element.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "169. Majority Element.swift"; path = "leetcode-swift-cpp/169. Majority Element.swift"; sourceTree = SOURCE_ROOT; };
@@ -108,6 +110,7 @@
 				DA77CC3E1C995DC100764B3F /* 136. Single Number.swift */,
 				DA77CC3F1C995DC100764B3F /* 258. Add Digits.swift */,
 				DA77CC401C995DC100764B3F /* 292. Nim Game.swift */,
+				DA830ED81C9FB1A00073674F /* 318. Maximum Product of Word Lengths.swift */,
 			);
 			name = algorithms;
 			sourceTree = "<group>";
@@ -182,6 +185,7 @@
 				DAFA12E01C9A79320034E3DC /* 217. Contains Duplicate.swift in Sources */,
 				DAFA12E31C9A79320034E3DC /* 242. Valid Anagram.swift in Sources */,
 				DA77CC411C995DC100764B3F /* 136. Single Number.swift in Sources */,
+				DA830ED91C9FB1A00073674F /* 318. Maximum Product of Word Lengths.swift in Sources */,
 				DA77CC421C995DC100764B3F /* 258. Add Digits.swift in Sources */,
 				DAFA12DD1C9A79320034E3DC /* 169. Majority Element.swift in Sources */,
 				DA77CC301C995D7D00764B3F /* main.swift in Sources */,
