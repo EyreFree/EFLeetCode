@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		10E50E7A1CAA2CC800096BD8 /* 235. Lowest Common Ancestor of a Binary Search Tree.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 10E50E791CAA2CC800096BD8 /* 235. Lowest Common Ancestor of a Binary Search Tree.cpp */; };
 		120672EB1C9EAA5100D24F63 /* 94. Binary Tree Inorder Traversal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 120672EA1C9EAA5100D24F63 /* 94. Binary Tree Inorder Traversal.swift */; };
 		12EA931B1CA44F0E00E2050D /* 52. N-Queens II.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12EA931A1CA44F0E00E2050D /* 52. N-Queens II.swift */; };
 		DA38F8B71CA1192800B85482 /* 206. Reverse Linked List.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA38F8B61CA1192800B85482 /* 206. Reverse Linked List.swift */; };
@@ -43,6 +44,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		10E50E791CAA2CC800096BD8 /* 235. Lowest Common Ancestor of a Binary Search Tree.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = "235. Lowest Common Ancestor of a Binary Search Tree.cpp"; path = "leetcode-swift-cpp/235. Lowest Common Ancestor of a Binary Search Tree.cpp"; sourceTree = SOURCE_ROOT; };
 		120672EA1C9EAA5100D24F63 /* 94. Binary Tree Inorder Traversal.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "94. Binary Tree Inorder Traversal.swift"; path = "leetcode-swift-cpp/94. Binary Tree Inorder Traversal.swift"; sourceTree = SOURCE_ROOT; };
 		12EA931A1CA44F0E00E2050D /* 52. N-Queens II.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "52. N-Queens II.swift"; path = "leetcode-swift-cpp/52. N-Queens II.swift"; sourceTree = SOURCE_ROOT; };
 		DA38F8B61CA1192800B85482 /* 206. Reverse Linked List.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "206. Reverse Linked List.swift"; path = "leetcode-swift-cpp/206. Reverse Linked List.swift"; sourceTree = SOURCE_ROOT; };
@@ -126,6 +128,7 @@
 				DA38F8B61CA1192800B85482 /* 206. Reverse Linked List.swift */,
 				DAE3B18F1CA21F620024B888 /* 338. Counting Bits.swift */,
 				DA90CC291CA8CAF7004B1988 /* 287. Find the Duplicate Number.swift */,
+				10E50E791CAA2CC800096BD8 /* 235. Lowest Common Ancestor of a Binary Search Tree.cpp */,
 			);
 			name = algorithms;
 			sourceTree = "<group>";
@@ -217,6 +220,7 @@
 				DAFA12E21C9A79320034E3DC /* 260. Single Number III.swift in Sources */,
 				DAE3B1901CA21F620024B888 /* 338. Counting Bits.swift in Sources */,
 				DA38F8B71CA1192800B85482 /* 206. Reverse Linked List.swift in Sources */,
+				10E50E7A1CAA2CC800096BD8 /* 235. Lowest Common Ancestor of a Binary Search Tree.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
