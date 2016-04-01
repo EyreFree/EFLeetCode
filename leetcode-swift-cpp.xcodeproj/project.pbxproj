@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1098CC301CADFE4600F22262 /* 96. Unique Binary Search Trees.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1098CC2F1CADFE4600F22262 /* 96. Unique Binary Search Trees.swift */; };
 		10E50E7A1CAA2CC800096BD8 /* 235. Lowest Common Ancestor of a Binary Search Tree.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 10E50E791CAA2CC800096BD8 /* 235. Lowest Common Ancestor of a Binary Search Tree.cpp */; };
 		10E50E9B1CAB5EBA00096BD8 /* 191. Number of 1 Bits.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 10E50E9A1CAB5EBA00096BD8 /* 191. Number of 1 Bits.cpp */; };
 		10EC8A4B1CACBD0100CE609D /* 137. Single Number II.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10EC8A4A1CACBD0100CE609D /* 137. Single Number II.swift */; };
@@ -46,6 +47,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		1098CC2F1CADFE4600F22262 /* 96. Unique Binary Search Trees.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "96. Unique Binary Search Trees.swift"; path = "leetcode-swift-cpp/96. Unique Binary Search Trees.swift"; sourceTree = SOURCE_ROOT; };
 		10E50E791CAA2CC800096BD8 /* 235. Lowest Common Ancestor of a Binary Search Tree.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = "235. Lowest Common Ancestor of a Binary Search Tree.cpp"; path = "leetcode-swift-cpp/235. Lowest Common Ancestor of a Binary Search Tree.cpp"; sourceTree = SOURCE_ROOT; };
 		10E50E9A1CAB5EBA00096BD8 /* 191. Number of 1 Bits.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = "191. Number of 1 Bits.cpp"; path = "leetcode-swift-cpp/191. Number of 1 Bits.cpp"; sourceTree = SOURCE_ROOT; };
 		10EC8A4A1CACBD0100CE609D /* 137. Single Number II.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "137. Single Number II.swift"; path = "leetcode-swift-cpp/137. Single Number II.swift"; sourceTree = SOURCE_ROOT; };
@@ -135,6 +137,7 @@
 				10E50E791CAA2CC800096BD8 /* 235. Lowest Common Ancestor of a Binary Search Tree.cpp */,
 				10E50E9A1CAB5EBA00096BD8 /* 191. Number of 1 Bits.cpp */,
 				10EC8A4A1CACBD0100CE609D /* 137. Single Number II.swift */,
+				1098CC2F1CADFE4600F22262 /* 96. Unique Binary Search Trees.swift */,
 			);
 			name = algorithms;
 			sourceTree = "<group>";
@@ -217,6 +220,7 @@
 				DAFA12DD1C9A79320034E3DC /* 169. Majority Element.swift in Sources */,
 				DA77CC301C995D7D00764B3F /* main.swift in Sources */,
 				DAFA12DC1C9A79320034E3DC /* 268. Missing Number.swift in Sources */,
+				1098CC301CADFE4600F22262 /* 96. Unique Binary Search Trees.swift in Sources */,
 				DAFA12DB1C9A79320034E3DC /* 122. Best Time to Buy and Sell Stock II.swift in Sources */,
 				12EA931B1CA44F0E00E2050D /* 52. N-Queens II.swift in Sources */,
 				DAFA12DF1C9A79320034E3DC /* 144. Binary Tree Preorder Traversal.swift in Sources */,
