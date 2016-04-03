@@ -13,6 +13,7 @@
 		10EC8A4B1CACBD0100CE609D /* 137. Single Number II.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10EC8A4A1CACBD0100CE609D /* 137. Single Number II.swift */; };
 		120672EB1C9EAA5100D24F63 /* 94. Binary Tree Inorder Traversal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 120672EA1C9EAA5100D24F63 /* 94. Binary Tree Inorder Traversal.swift */; };
 		12C2E27C1CAFA13500482FF5 /* 12. Integer to Roman.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12C2E27B1CAFA13500482FF5 /* 12. Integer to Roman.swift */; };
+		12C2E27E1CB09CD400482FF5 /* 328. Odd Even Linked List.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12C2E27D1CB09CD400482FF5 /* 328. Odd Even Linked List.swift */; };
 		12EA931B1CA44F0E00E2050D /* 52. N-Queens II.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12EA931A1CA44F0E00E2050D /* 52. N-Queens II.swift */; };
 		DA38F8B71CA1192800B85482 /* 206. Reverse Linked List.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA38F8B61CA1192800B85482 /* 206. Reverse Linked List.swift */; };
 		DA77CC301C995D7D00764B3F /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA77CC2F1C995D7D00764B3F /* main.swift */; };
@@ -54,6 +55,7 @@
 		10EC8A4A1CACBD0100CE609D /* 137. Single Number II.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "137. Single Number II.swift"; path = "leetcode-swift-cpp/137. Single Number II.swift"; sourceTree = SOURCE_ROOT; };
 		120672EA1C9EAA5100D24F63 /* 94. Binary Tree Inorder Traversal.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "94. Binary Tree Inorder Traversal.swift"; path = "leetcode-swift-cpp/94. Binary Tree Inorder Traversal.swift"; sourceTree = SOURCE_ROOT; };
 		12C2E27B1CAFA13500482FF5 /* 12. Integer to Roman.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "12. Integer to Roman.swift"; path = "leetcode-swift-cpp/12. Integer to Roman.swift"; sourceTree = SOURCE_ROOT; };
+		12C2E27D1CB09CD400482FF5 /* 328. Odd Even Linked List.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "328. Odd Even Linked List.swift"; path = "leetcode-swift-cpp/328. Odd Even Linked List.swift"; sourceTree = SOURCE_ROOT; };
 		12EA931A1CA44F0E00E2050D /* 52. N-Queens II.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "52. N-Queens II.swift"; path = "leetcode-swift-cpp/52. N-Queens II.swift"; sourceTree = SOURCE_ROOT; };
 		DA38F8B61CA1192800B85482 /* 206. Reverse Linked List.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "206. Reverse Linked List.swift"; path = "leetcode-swift-cpp/206. Reverse Linked List.swift"; sourceTree = SOURCE_ROOT; };
 		DA77CC2C1C995D7D00764B3F /* leetcode-swift-cpp */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "leetcode-swift-cpp"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -141,6 +143,7 @@
 				10EC8A4A1CACBD0100CE609D /* 137. Single Number II.swift */,
 				1098CC2F1CADFE4600F22262 /* 96. Unique Binary Search Trees.swift */,
 				12C2E27B1CAFA13500482FF5 /* 12. Integer to Roman.swift */,
+				12C2E27D1CB09CD400482FF5 /* 328. Odd Even Linked List.swift */,
 			);
 			name = algorithms;
 			sourceTree = "<group>";
@@ -236,6 +239,7 @@
 				12C2E27C1CAFA13500482FF5 /* 12. Integer to Roman.swift in Sources */,
 				DAE3B1901CA21F620024B888 /* 338. Counting Bits.swift in Sources */,
 				DA38F8B71CA1192800B85482 /* 206. Reverse Linked List.swift in Sources */,
+				12C2E27E1CB09CD400482FF5 /* 328. Odd Even Linked List.swift in Sources */,
 				10E50E7A1CAA2CC800096BD8 /* 235. Lowest Common Ancestor of a Binary Search Tree.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
