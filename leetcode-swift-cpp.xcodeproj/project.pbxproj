@@ -14,6 +14,7 @@
 		10E50E9B1CAB5EBA00096BD8 /* 191. Number of 1 Bits.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 10E50E9A1CAB5EBA00096BD8 /* 191. Number of 1 Bits.cpp */; };
 		10EC8A4B1CACBD0100CE609D /* 137. Single Number II.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10EC8A4A1CACBD0100CE609D /* 137. Single Number II.swift */; };
 		120672EB1C9EAA5100D24F63 /* 94. Binary Tree Inorder Traversal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 120672EA1C9EAA5100D24F63 /* 94. Binary Tree Inorder Traversal.swift */; };
+		124781D71CB6AD0000CFD9CC /* 108. Convert Sorted Array to Binary Search Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 124781D61CB6AD0000CFD9CC /* 108. Convert Sorted Array to Binary Search Tree.swift */; };
 		12C2E27C1CAFA13500482FF5 /* 12. Integer to Roman.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12C2E27B1CAFA13500482FF5 /* 12. Integer to Roman.swift */; };
 		12C2E27E1CB09CD400482FF5 /* 328. Odd Even Linked List.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12C2E27D1CB09CD400482FF5 /* 328. Odd Even Linked List.swift */; };
 		12EA931B1CA44F0E00E2050D /* 52. N-Queens II.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12EA931A1CA44F0E00E2050D /* 52. N-Queens II.swift */; };
@@ -58,6 +59,7 @@
 		10E50E9A1CAB5EBA00096BD8 /* 191. Number of 1 Bits.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = "191. Number of 1 Bits.cpp"; path = "leetcode-swift-cpp/191. Number of 1 Bits.cpp"; sourceTree = SOURCE_ROOT; };
 		10EC8A4A1CACBD0100CE609D /* 137. Single Number II.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "137. Single Number II.swift"; path = "leetcode-swift-cpp/137. Single Number II.swift"; sourceTree = SOURCE_ROOT; };
 		120672EA1C9EAA5100D24F63 /* 94. Binary Tree Inorder Traversal.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "94. Binary Tree Inorder Traversal.swift"; path = "leetcode-swift-cpp/94. Binary Tree Inorder Traversal.swift"; sourceTree = SOURCE_ROOT; };
+		124781D61CB6AD0000CFD9CC /* 108. Convert Sorted Array to Binary Search Tree.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "108. Convert Sorted Array to Binary Search Tree.swift"; path = "leetcode-swift-cpp/108. Convert Sorted Array to Binary Search Tree.swift"; sourceTree = SOURCE_ROOT; };
 		12C2E27B1CAFA13500482FF5 /* 12. Integer to Roman.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "12. Integer to Roman.swift"; path = "leetcode-swift-cpp/12. Integer to Roman.swift"; sourceTree = SOURCE_ROOT; };
 		12C2E27D1CB09CD400482FF5 /* 328. Odd Even Linked List.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "328. Odd Even Linked List.swift"; path = "leetcode-swift-cpp/328. Odd Even Linked List.swift"; sourceTree = SOURCE_ROOT; };
 		12EA931A1CA44F0E00E2050D /* 52. N-Queens II.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "52. N-Queens II.swift"; path = "leetcode-swift-cpp/52. N-Queens II.swift"; sourceTree = SOURCE_ROOT; };
@@ -150,6 +152,7 @@
 				12C2E27D1CB09CD400482FF5 /* 328. Odd Even Linked List.swift */,
 				1098CC311CB3494A00F22262 /* 230. Kth Smallest Element in a BST.swift */,
 				1098CC961CB4ACC100F22262 /* 35. Search Insert Position.swift */,
+				124781D61CB6AD0000CFD9CC /* 108. Convert Sorted Array to Binary Search Tree.swift */,
 			);
 			name = algorithms;
 			sourceTree = "<group>";
@@ -222,6 +225,7 @@
 			files = (
 				DAFA12E41C9A79320034E3DC /* 319. Bulb Switcher.swift in Sources */,
 				DAFA12E01C9A79320034E3DC /* 217. Contains Duplicate.swift in Sources */,
+				124781D71CB6AD0000CFD9CC /* 108. Convert Sorted Array to Binary Search Tree.swift in Sources */,
 				DAFA12E31C9A79320034E3DC /* 242. Valid Anagram.swift in Sources */,
 				DA77CC411C995DC100764B3F /* 136. Single Number.swift in Sources */,
 				10EC8A4B1CACBD0100CE609D /* 137. Single Number II.swift in Sources */,
