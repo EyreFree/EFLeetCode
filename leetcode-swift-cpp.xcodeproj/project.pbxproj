@@ -11,6 +11,7 @@
 		1098CC321CB3494A00F22262 /* 230. Kth Smallest Element in a BST.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1098CC311CB3494A00F22262 /* 230. Kth Smallest Element in a BST.swift */; };
 		1098CC971CB4ACC100F22262 /* 35. Search Insert Position.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1098CC961CB4ACC100F22262 /* 35. Search Insert Position.swift */; };
 		1098CCAF1CB7404200F22262 /* 237. Delete Node in a Linked List.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1098CCAE1CB7404200F22262 /* 237. Delete Node in a Linked List.cpp */; };
+		1098CCB11CB746B900F22262 /* 83. Remove Duplicates from Sorted List.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1098CCB01CB746B900F22262 /* 83. Remove Duplicates from Sorted List.swift */; };
 		10E50E7A1CAA2CC800096BD8 /* 235. Lowest Common Ancestor of a Binary Search Tree.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 10E50E791CAA2CC800096BD8 /* 235. Lowest Common Ancestor of a Binary Search Tree.cpp */; };
 		10E50E9B1CAB5EBA00096BD8 /* 191. Number of 1 Bits.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 10E50E9A1CAB5EBA00096BD8 /* 191. Number of 1 Bits.cpp */; };
 		10EC8A4B1CACBD0100CE609D /* 137. Single Number II.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10EC8A4A1CACBD0100CE609D /* 137. Single Number II.swift */; };
@@ -57,6 +58,7 @@
 		1098CC311CB3494A00F22262 /* 230. Kth Smallest Element in a BST.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "230. Kth Smallest Element in a BST.swift"; path = "leetcode-swift-cpp/230. Kth Smallest Element in a BST.swift"; sourceTree = SOURCE_ROOT; };
 		1098CC961CB4ACC100F22262 /* 35. Search Insert Position.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "35. Search Insert Position.swift"; path = "leetcode-swift-cpp/35. Search Insert Position.swift"; sourceTree = SOURCE_ROOT; };
 		1098CCAE1CB7404200F22262 /* 237. Delete Node in a Linked List.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = "237. Delete Node in a Linked List.cpp"; path = "leetcode-swift-cpp/237. Delete Node in a Linked List.cpp"; sourceTree = SOURCE_ROOT; };
+		1098CCB01CB746B900F22262 /* 83. Remove Duplicates from Sorted List.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "83. Remove Duplicates from Sorted List.swift"; path = "leetcode-swift-cpp/83. Remove Duplicates from Sorted List.swift"; sourceTree = SOURCE_ROOT; };
 		10E50E791CAA2CC800096BD8 /* 235. Lowest Common Ancestor of a Binary Search Tree.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = "235. Lowest Common Ancestor of a Binary Search Tree.cpp"; path = "leetcode-swift-cpp/235. Lowest Common Ancestor of a Binary Search Tree.cpp"; sourceTree = SOURCE_ROOT; };
 		10E50E9A1CAB5EBA00096BD8 /* 191. Number of 1 Bits.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = "191. Number of 1 Bits.cpp"; path = "leetcode-swift-cpp/191. Number of 1 Bits.cpp"; sourceTree = SOURCE_ROOT; };
 		10EC8A4A1CACBD0100CE609D /* 137. Single Number II.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "137. Single Number II.swift"; path = "leetcode-swift-cpp/137. Single Number II.swift"; sourceTree = SOURCE_ROOT; };
@@ -156,6 +158,7 @@
 				1098CC961CB4ACC100F22262 /* 35. Search Insert Position.swift */,
 				124781D61CB6AD0000CFD9CC /* 108. Convert Sorted Array to Binary Search Tree.swift */,
 				1098CCAE1CB7404200F22262 /* 237. Delete Node in a Linked List.cpp */,
+				1098CCB01CB746B900F22262 /* 83. Remove Duplicates from Sorted List.swift */,
 			);
 			name = algorithms;
 			sourceTree = "<group>";
@@ -255,6 +258,7 @@
 				12C2E27C1CAFA13500482FF5 /* 12. Integer to Roman.swift in Sources */,
 				DAE3B1901CA21F620024B888 /* 338. Counting Bits.swift in Sources */,
 				DA38F8B71CA1192800B85482 /* 206. Reverse Linked List.swift in Sources */,
+				1098CCB11CB746B900F22262 /* 83. Remove Duplicates from Sorted List.swift in Sources */,
 				12C2E27E1CB09CD400482FF5 /* 328. Odd Even Linked List.swift in Sources */,
 				10E50E7A1CAA2CC800096BD8 /* 235. Lowest Common Ancestor of a Binary Search Tree.cpp in Sources */,
 			);
