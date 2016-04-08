@@ -8,6 +8,11 @@
 
 #include <stdio.h>
 
+#ifndef _UINT32_T
+#define _UINT32_T
+typedef unsigned int uint32_t;
+#endif /* _UINT32_T */
+
 class Solution191Numberof1Bits {
 public:
     int hammingWeight(uint32_t n) {

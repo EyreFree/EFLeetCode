@@ -10,6 +10,7 @@
 		1098CC301CADFE4600F22262 /* 96. Unique Binary Search Trees.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1098CC2F1CADFE4600F22262 /* 96. Unique Binary Search Trees.swift */; };
 		1098CC321CB3494A00F22262 /* 230. Kth Smallest Element in a BST.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1098CC311CB3494A00F22262 /* 230. Kth Smallest Element in a BST.swift */; };
 		1098CC971CB4ACC100F22262 /* 35. Search Insert Position.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1098CC961CB4ACC100F22262 /* 35. Search Insert Position.swift */; };
+		1098CCAF1CB7404200F22262 /* 237. Delete Node in a Linked List.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1098CCAE1CB7404200F22262 /* 237. Delete Node in a Linked List.cpp */; };
 		10E50E7A1CAA2CC800096BD8 /* 235. Lowest Common Ancestor of a Binary Search Tree.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 10E50E791CAA2CC800096BD8 /* 235. Lowest Common Ancestor of a Binary Search Tree.cpp */; };
 		10E50E9B1CAB5EBA00096BD8 /* 191. Number of 1 Bits.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 10E50E9A1CAB5EBA00096BD8 /* 191. Number of 1 Bits.cpp */; };
 		10EC8A4B1CACBD0100CE609D /* 137. Single Number II.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10EC8A4A1CACBD0100CE609D /* 137. Single Number II.swift */; };
@@ -55,6 +56,7 @@
 		1098CC2F1CADFE4600F22262 /* 96. Unique Binary Search Trees.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "96. Unique Binary Search Trees.swift"; path = "leetcode-swift-cpp/96. Unique Binary Search Trees.swift"; sourceTree = SOURCE_ROOT; };
 		1098CC311CB3494A00F22262 /* 230. Kth Smallest Element in a BST.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "230. Kth Smallest Element in a BST.swift"; path = "leetcode-swift-cpp/230. Kth Smallest Element in a BST.swift"; sourceTree = SOURCE_ROOT; };
 		1098CC961CB4ACC100F22262 /* 35. Search Insert Position.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "35. Search Insert Position.swift"; path = "leetcode-swift-cpp/35. Search Insert Position.swift"; sourceTree = SOURCE_ROOT; };
+		1098CCAE1CB7404200F22262 /* 237. Delete Node in a Linked List.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = "237. Delete Node in a Linked List.cpp"; path = "leetcode-swift-cpp/237. Delete Node in a Linked List.cpp"; sourceTree = SOURCE_ROOT; };
 		10E50E791CAA2CC800096BD8 /* 235. Lowest Common Ancestor of a Binary Search Tree.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = "235. Lowest Common Ancestor of a Binary Search Tree.cpp"; path = "leetcode-swift-cpp/235. Lowest Common Ancestor of a Binary Search Tree.cpp"; sourceTree = SOURCE_ROOT; };
 		10E50E9A1CAB5EBA00096BD8 /* 191. Number of 1 Bits.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = "191. Number of 1 Bits.cpp"; path = "leetcode-swift-cpp/191. Number of 1 Bits.cpp"; sourceTree = SOURCE_ROOT; };
 		10EC8A4A1CACBD0100CE609D /* 137. Single Number II.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "137. Single Number II.swift"; path = "leetcode-swift-cpp/137. Single Number II.swift"; sourceTree = SOURCE_ROOT; };
@@ -153,6 +155,7 @@
 				1098CC311CB3494A00F22262 /* 230. Kth Smallest Element in a BST.swift */,
 				1098CC961CB4ACC100F22262 /* 35. Search Insert Position.swift */,
 				124781D61CB6AD0000CFD9CC /* 108. Convert Sorted Array to Binary Search Tree.swift */,
+				1098CCAE1CB7404200F22262 /* 237. Delete Node in a Linked List.cpp */,
 			);
 			name = algorithms;
 			sourceTree = "<group>";
@@ -234,6 +237,7 @@
 				DA882D3D1CA54A3E00F0F181 /* 13. Roman to Integer.swift in Sources */,
 				10E50E9B1CAB5EBA00096BD8 /* 191. Number of 1 Bits.cpp in Sources */,
 				DA77CC421C995DC100764B3F /* 258. Add Digits.swift in Sources */,
+				1098CCAF1CB7404200F22262 /* 237. Delete Node in a Linked List.cpp in Sources */,
 				DAFA12DD1C9A79320034E3DC /* 169. Majority Element.swift in Sources */,
 				DA77CC301C995D7D00764B3F /* main.swift in Sources */,
 				DAFA12DC1C9A79320034E3DC /* 268. Missing Number.swift in Sources */,
