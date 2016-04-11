@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		10928F761CBB40750064D5E1 /* 263. Ugly Number.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10928F751CBB40750064D5E1 /* 263. Ugly Number.swift */; };
 		1098CC301CADFE4600F22262 /* 96. Unique Binary Search Trees.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1098CC2F1CADFE4600F22262 /* 96. Unique Binary Search Trees.swift */; };
 		1098CC321CB3494A00F22262 /* 230. Kth Smallest Element in a BST.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1098CC311CB3494A00F22262 /* 230. Kth Smallest Element in a BST.swift */; };
 		1098CC971CB4ACC100F22262 /* 35. Search Insert Position.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1098CC961CB4ACC100F22262 /* 35. Search Insert Position.swift */; };
@@ -55,6 +56,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		10928F751CBB40750064D5E1 /* 263. Ugly Number.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "263. Ugly Number.swift"; path = "leetcode-swift-cpp/263. Ugly Number.swift"; sourceTree = SOURCE_ROOT; };
 		1098CC2F1CADFE4600F22262 /* 96. Unique Binary Search Trees.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "96. Unique Binary Search Trees.swift"; path = "leetcode-swift-cpp/96. Unique Binary Search Trees.swift"; sourceTree = SOURCE_ROOT; };
 		1098CC311CB3494A00F22262 /* 230. Kth Smallest Element in a BST.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "230. Kth Smallest Element in a BST.swift"; path = "leetcode-swift-cpp/230. Kth Smallest Element in a BST.swift"; sourceTree = SOURCE_ROOT; };
 		1098CC961CB4ACC100F22262 /* 35. Search Insert Position.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "35. Search Insert Position.swift"; path = "leetcode-swift-cpp/35. Search Insert Position.swift"; sourceTree = SOURCE_ROOT; };
@@ -130,6 +132,7 @@
 		DA77CC391C995D9800764B3F /* algorithms */ = {
 			isa = PBXGroup;
 			children = (
+				10928F751CBB40750064D5E1 /* 263. Ugly Number.swift */,
 				DA882D3C1CA54A3E00F0F181 /* 13. Roman to Integer.swift */,
 				12EA931A1CA44F0E00E2050D /* 52. N-Queens II.swift */,
 				120672EA1C9EAA5100D24F63 /* 94. Binary Tree Inorder Traversal.swift */,
@@ -248,6 +251,7 @@
 				DA77CC301C995D7D00764B3F /* main.swift in Sources */,
 				DAFA12DC1C9A79320034E3DC /* 268. Missing Number.swift in Sources */,
 				1098CC301CADFE4600F22262 /* 96. Unique Binary Search Trees.swift in Sources */,
+				10928F761CBB40750064D5E1 /* 263. Ugly Number.swift in Sources */,
 				DAFA12DB1C9A79320034E3DC /* 122. Best Time to Buy and Sell Stock II.swift in Sources */,
 				12EA931B1CA44F0E00E2050D /* 52. N-Queens II.swift in Sources */,
 				DAFA12DF1C9A79320034E3DC /* 144. Binary Tree Preorder Traversal.swift in Sources */,
