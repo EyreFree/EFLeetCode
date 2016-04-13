@@ -14,6 +14,7 @@
 		1098CCAF1CB7404200F22262 /* 237. Delete Node in a Linked List.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1098CCAE1CB7404200F22262 /* 237. Delete Node in a Linked List.cpp */; };
 		1098CCB11CB746B900F22262 /* 83. Remove Duplicates from Sorted List.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1098CCB01CB746B900F22262 /* 83. Remove Duplicates from Sorted List.swift */; };
 		10E4AB511CBCF0FB000793A5 /* 202. Happy Number.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10E4AB501CBCF0FB000793A5 /* 202. Happy Number.swift */; };
+		10E4AB531CBDD52A000793A5 /* 231. Power of Two.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10E4AB521CBDD52A000793A5 /* 231. Power of Two.swift */; };
 		10E50E7A1CAA2CC800096BD8 /* 235. Lowest Common Ancestor of a Binary Search Tree.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 10E50E791CAA2CC800096BD8 /* 235. Lowest Common Ancestor of a Binary Search Tree.cpp */; };
 		10E50E9B1CAB5EBA00096BD8 /* 191. Number of 1 Bits.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 10E50E9A1CAB5EBA00096BD8 /* 191. Number of 1 Bits.cpp */; };
 		10EC8A4B1CACBD0100CE609D /* 137. Single Number II.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10EC8A4A1CACBD0100CE609D /* 137. Single Number II.swift */; };
@@ -64,6 +65,7 @@
 		1098CCAE1CB7404200F22262 /* 237. Delete Node in a Linked List.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = "237. Delete Node in a Linked List.cpp"; path = "leetcode-swift-cpp/237. Delete Node in a Linked List.cpp"; sourceTree = SOURCE_ROOT; };
 		1098CCB01CB746B900F22262 /* 83. Remove Duplicates from Sorted List.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "83. Remove Duplicates from Sorted List.swift"; path = "leetcode-swift-cpp/83. Remove Duplicates from Sorted List.swift"; sourceTree = SOURCE_ROOT; };
 		10E4AB501CBCF0FB000793A5 /* 202. Happy Number.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "202. Happy Number.swift"; path = "leetcode-swift-cpp/202. Happy Number.swift"; sourceTree = SOURCE_ROOT; };
+		10E4AB521CBDD52A000793A5 /* 231. Power of Two.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "231. Power of Two.swift"; path = "leetcode-swift-cpp/231. Power of Two.swift"; sourceTree = SOURCE_ROOT; };
 		10E50E791CAA2CC800096BD8 /* 235. Lowest Common Ancestor of a Binary Search Tree.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = "235. Lowest Common Ancestor of a Binary Search Tree.cpp"; path = "leetcode-swift-cpp/235. Lowest Common Ancestor of a Binary Search Tree.cpp"; sourceTree = SOURCE_ROOT; };
 		10E50E9A1CAB5EBA00096BD8 /* 191. Number of 1 Bits.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = "191. Number of 1 Bits.cpp"; path = "leetcode-swift-cpp/191. Number of 1 Bits.cpp"; sourceTree = SOURCE_ROOT; };
 		10EC8A4A1CACBD0100CE609D /* 137. Single Number II.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "137. Single Number II.swift"; path = "leetcode-swift-cpp/137. Single Number II.swift"; sourceTree = SOURCE_ROOT; };
@@ -168,6 +170,7 @@
 				1098CCB01CB746B900F22262 /* 83. Remove Duplicates from Sorted List.swift */,
 				12D2654D1CB907280078F28A /* 70. Climbing Stairs.swift */,
 				10E4AB501CBCF0FB000793A5 /* 202. Happy Number.swift */,
+				10E4AB521CBDD52A000793A5 /* 231. Power of Two.swift */,
 			);
 			name = algorithms;
 			sourceTree = "<group>";
@@ -272,6 +275,7 @@
 				DA38F8B71CA1192800B85482 /* 206. Reverse Linked List.swift in Sources */,
 				1098CCB11CB746B900F22262 /* 83. Remove Duplicates from Sorted List.swift in Sources */,
 				12C2E27E1CB09CD400482FF5 /* 328. Odd Even Linked List.swift in Sources */,
+				10E4AB531CBDD52A000793A5 /* 231. Power of Two.swift in Sources */,
 				10E50E7A1CAA2CC800096BD8 /* 235. Lowest Common Ancestor of a Binary Search Tree.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
