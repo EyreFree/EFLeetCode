@@ -18,6 +18,7 @@
 		10E4AB551CBF22D6000793A5 /* 326. Power of Three.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10E4AB541CBF22D6000793A5 /* 326. Power of Three.swift */; };
 		10E4AB571CC26F67000793A5 /* 121. Best Time to Buy and Sell Stock.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10E4AB561CC26F67000793A5 /* 121. Best Time to Buy and Sell Stock.swift */; };
 		10E4AB5B1CC48D05000793A5 /* 342. Power of Four.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10E4AB5A1CC48D05000793A5 /* 342. Power of Four.swift */; };
+		10E4AB621CC5DD30000793A5 /* 2. Add Two Numbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10E4AB611CC5DD30000793A5 /* 2. Add Two Numbers.swift */; };
 		10E50E7A1CAA2CC800096BD8 /* 235. Lowest Common Ancestor of a Binary Search Tree.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 10E50E791CAA2CC800096BD8 /* 235. Lowest Common Ancestor of a Binary Search Tree.cpp */; };
 		10E50E9B1CAB5EBA00096BD8 /* 191. Number of 1 Bits.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 10E50E9A1CAB5EBA00096BD8 /* 191. Number of 1 Bits.cpp */; };
 		10EC8A4B1CACBD0100CE609D /* 137. Single Number II.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10EC8A4A1CACBD0100CE609D /* 137. Single Number II.swift */; };
@@ -72,6 +73,7 @@
 		10E4AB541CBF22D6000793A5 /* 326. Power of Three.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "326. Power of Three.swift"; path = "leetcode-swift-cpp/326. Power of Three.swift"; sourceTree = SOURCE_ROOT; };
 		10E4AB561CC26F67000793A5 /* 121. Best Time to Buy and Sell Stock.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "121. Best Time to Buy and Sell Stock.swift"; path = "leetcode-swift-cpp/121. Best Time to Buy and Sell Stock.swift"; sourceTree = SOURCE_ROOT; };
 		10E4AB5A1CC48D05000793A5 /* 342. Power of Four.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "342. Power of Four.swift"; path = "leetcode-swift-cpp/342. Power of Four.swift"; sourceTree = SOURCE_ROOT; };
+		10E4AB611CC5DD30000793A5 /* 2. Add Two Numbers.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "2. Add Two Numbers.swift"; path = "leetcode-swift-cpp/2. Add Two Numbers.swift"; sourceTree = SOURCE_ROOT; };
 		10E50E791CAA2CC800096BD8 /* 235. Lowest Common Ancestor of a Binary Search Tree.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = "235. Lowest Common Ancestor of a Binary Search Tree.cpp"; path = "leetcode-swift-cpp/235. Lowest Common Ancestor of a Binary Search Tree.cpp"; sourceTree = SOURCE_ROOT; };
 		10E50E9A1CAB5EBA00096BD8 /* 191. Number of 1 Bits.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = "191. Number of 1 Bits.cpp"; path = "leetcode-swift-cpp/191. Number of 1 Bits.cpp"; sourceTree = SOURCE_ROOT; };
 		10EC8A4A1CACBD0100CE609D /* 137. Single Number II.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "137. Single Number II.swift"; path = "leetcode-swift-cpp/137. Single Number II.swift"; sourceTree = SOURCE_ROOT; };
@@ -180,6 +182,7 @@
 				10E4AB541CBF22D6000793A5 /* 326. Power of Three.swift */,
 				10E4AB561CC26F67000793A5 /* 121. Best Time to Buy and Sell Stock.swift */,
 				10E4AB5A1CC48D05000793A5 /* 342. Power of Four.swift */,
+				10E4AB611CC5DD30000793A5 /* 2. Add Two Numbers.swift */,
 			);
 			name = algorithms;
 			sourceTree = "<group>";
@@ -268,6 +271,7 @@
 				1098CC301CADFE4600F22262 /* 96. Unique Binary Search Trees.swift in Sources */,
 				10928F761CBB40750064D5E1 /* 263. Ugly Number.swift in Sources */,
 				DAFA12DB1C9A79320034E3DC /* 122. Best Time to Buy and Sell Stock II.swift in Sources */,
+				10E4AB621CC5DD30000793A5 /* 2. Add Two Numbers.swift in Sources */,
 				12EA931B1CA44F0E00E2050D /* 52. N-Queens II.swift in Sources */,
 				DAFA12DF1C9A79320034E3DC /* 144. Binary Tree Preorder Traversal.swift in Sources */,
 				DA90CC2A1CA8CAF7004B1988 /* 287. Find the Duplicate Number.swift in Sources */,
