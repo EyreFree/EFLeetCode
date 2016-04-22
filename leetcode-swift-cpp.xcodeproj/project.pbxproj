@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		107578781CC9B75E00736B2F /* 21. Merge Two Sorted Lists.swift in Sources */ = {isa = PBXBuildFile; fileRef = 107578771CC9B75E00736B2F /* 21. Merge Two Sorted Lists.swift */; };
 		10928F761CBB40750064D5E1 /* 263. Ugly Number.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10928F751CBB40750064D5E1 /* 263. Ugly Number.swift */; };
 		1098CC301CADFE4600F22262 /* 96. Unique Binary Search Trees.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1098CC2F1CADFE4600F22262 /* 96. Unique Binary Search Trees.swift */; };
 		1098CC321CB3494A00F22262 /* 230. Kth Smallest Element in a BST.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1098CC311CB3494A00F22262 /* 230. Kth Smallest Element in a BST.swift */; };
@@ -62,6 +63,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		107578771CC9B75E00736B2F /* 21. Merge Two Sorted Lists.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "21. Merge Two Sorted Lists.swift"; path = "leetcode-swift-cpp/21. Merge Two Sorted Lists.swift"; sourceTree = SOURCE_ROOT; };
 		10928F751CBB40750064D5E1 /* 263. Ugly Number.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "263. Ugly Number.swift"; path = "leetcode-swift-cpp/263. Ugly Number.swift"; sourceTree = SOURCE_ROOT; };
 		1098CC2F1CADFE4600F22262 /* 96. Unique Binary Search Trees.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "96. Unique Binary Search Trees.swift"; path = "leetcode-swift-cpp/96. Unique Binary Search Trees.swift"; sourceTree = SOURCE_ROOT; };
 		1098CC311CB3494A00F22262 /* 230. Kth Smallest Element in a BST.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "230. Kth Smallest Element in a BST.swift"; path = "leetcode-swift-cpp/230. Kth Smallest Element in a BST.swift"; sourceTree = SOURCE_ROOT; };
@@ -183,6 +185,7 @@
 				10E4AB561CC26F67000793A5 /* 121. Best Time to Buy and Sell Stock.swift */,
 				10E4AB5A1CC48D05000793A5 /* 342. Power of Four.swift */,
 				10E4AB611CC5DD30000793A5 /* 2. Add Two Numbers.swift */,
+				107578771CC9B75E00736B2F /* 21. Merge Two Sorted Lists.swift */,
 			);
 			name = algorithms;
 			sourceTree = "<group>";
@@ -253,6 +256,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				107578781CC9B75E00736B2F /* 21. Merge Two Sorted Lists.swift in Sources */,
 				DAFA12E41C9A79320034E3DC /* 319. Bulb Switcher.swift in Sources */,
 				DAFA12E01C9A79320034E3DC /* 217. Contains Duplicate.swift in Sources */,
 				124781D71CB6AD0000CFD9CC /* 108. Convert Sorted Array to Binary Search Tree.swift in Sources */,
