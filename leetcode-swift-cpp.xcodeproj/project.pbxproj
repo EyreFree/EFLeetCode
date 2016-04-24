@@ -27,6 +27,9 @@
 		124781D71CB6AD0000CFD9CC /* 108. Convert Sorted Array to Binary Search Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 124781D61CB6AD0000CFD9CC /* 108. Convert Sorted Array to Binary Search Tree.swift */; };
 		12C2E27C1CAFA13500482FF5 /* 12. Integer to Roman.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12C2E27B1CAFA13500482FF5 /* 12. Integer to Roman.swift */; };
 		12C2E27E1CB09CD400482FF5 /* 328. Odd Even Linked List.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12C2E27D1CB09CD400482FF5 /* 328. Odd Even Linked List.swift */; };
+		12C4D15D1CCD1A4E00D4E80D /* 104. Maximum Depth of Binary Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12C4D15C1CCD1A4E00D4E80D /* 104. Maximum Depth of Binary Tree.swift */; };
+		12C4D15F1CCD1A8200D4E80D /* 226. Invert Binary Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12C4D15E1CCD1A8200D4E80D /* 226. Invert Binary Tree.swift */; };
+		12C4D1611CCD1AB600D4E80D /* 283. Move Zeroes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12C4D1601CCD1AB600D4E80D /* 283. Move Zeroes.swift */; };
 		12D2654E1CB907280078F28A /* 70. Climbing Stairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12D2654D1CB907280078F28A /* 70. Climbing Stairs.swift */; };
 		12EA931B1CA44F0E00E2050D /* 52. N-Queens II.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12EA931A1CA44F0E00E2050D /* 52. N-Queens II.swift */; };
 		DA38F8B71CA1192800B85482 /* 206. Reverse Linked List.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA38F8B61CA1192800B85482 /* 206. Reverse Linked List.swift */; };
@@ -83,6 +86,9 @@
 		124781D61CB6AD0000CFD9CC /* 108. Convert Sorted Array to Binary Search Tree.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "108. Convert Sorted Array to Binary Search Tree.swift"; path = "leetcode-swift-cpp/108. Convert Sorted Array to Binary Search Tree.swift"; sourceTree = SOURCE_ROOT; };
 		12C2E27B1CAFA13500482FF5 /* 12. Integer to Roman.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "12. Integer to Roman.swift"; path = "leetcode-swift-cpp/12. Integer to Roman.swift"; sourceTree = SOURCE_ROOT; };
 		12C2E27D1CB09CD400482FF5 /* 328. Odd Even Linked List.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "328. Odd Even Linked List.swift"; path = "leetcode-swift-cpp/328. Odd Even Linked List.swift"; sourceTree = SOURCE_ROOT; };
+		12C4D15C1CCD1A4E00D4E80D /* 104. Maximum Depth of Binary Tree.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "104. Maximum Depth of Binary Tree.swift"; path = "leetcode-swift-cpp/104. Maximum Depth of Binary Tree.swift"; sourceTree = SOURCE_ROOT; };
+		12C4D15E1CCD1A8200D4E80D /* 226. Invert Binary Tree.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "226. Invert Binary Tree.swift"; path = "leetcode-swift-cpp/226. Invert Binary Tree.swift"; sourceTree = SOURCE_ROOT; };
+		12C4D1601CCD1AB600D4E80D /* 283. Move Zeroes.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "283. Move Zeroes.swift"; path = "leetcode-swift-cpp/283. Move Zeroes.swift"; sourceTree = SOURCE_ROOT; };
 		12D2654D1CB907280078F28A /* 70. Climbing Stairs.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "70. Climbing Stairs.swift"; path = "leetcode-swift-cpp/70. Climbing Stairs.swift"; sourceTree = SOURCE_ROOT; };
 		12EA931A1CA44F0E00E2050D /* 52. N-Queens II.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "52. N-Queens II.swift"; path = "leetcode-swift-cpp/52. N-Queens II.swift"; sourceTree = SOURCE_ROOT; };
 		DA38F8B61CA1192800B85482 /* 206. Reverse Linked List.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "206. Reverse Linked List.swift"; path = "leetcode-swift-cpp/206. Reverse Linked List.swift"; sourceTree = SOURCE_ROOT; };
@@ -186,6 +192,9 @@
 				10E4AB5A1CC48D05000793A5 /* 342. Power of Four.swift */,
 				10E4AB611CC5DD30000793A5 /* 2. Add Two Numbers.swift */,
 				107578771CC9B75E00736B2F /* 21. Merge Two Sorted Lists.swift */,
+				12C4D15C1CCD1A4E00D4E80D /* 104. Maximum Depth of Binary Tree.swift */,
+				12C4D15E1CCD1A8200D4E80D /* 226. Invert Binary Tree.swift */,
+				12C4D1601CCD1AB600D4E80D /* 283. Move Zeroes.swift */,
 			);
 			name = algorithms;
 			sourceTree = "<group>";
@@ -266,6 +275,8 @@
 				DA830ED91C9FB1A00073674F /* 318. Maximum Product of Word Lengths.swift in Sources */,
 				1098CC971CB4ACC100F22262 /* 35. Search Insert Position.swift in Sources */,
 				DA882D3D1CA54A3E00F0F181 /* 13. Roman to Integer.swift in Sources */,
+				12C4D15D1CCD1A4E00D4E80D /* 104. Maximum Depth of Binary Tree.swift in Sources */,
+				12C4D1611CCD1AB600D4E80D /* 283. Move Zeroes.swift in Sources */,
 				10E50E9B1CAB5EBA00096BD8 /* 191. Number of 1 Bits.cpp in Sources */,
 				DA77CC421C995DC100764B3F /* 258. Add Digits.swift in Sources */,
 				1098CCAF1CB7404200F22262 /* 237. Delete Node in a Linked List.cpp in Sources */,
@@ -288,6 +299,7 @@
 				1098CC321CB3494A00F22262 /* 230. Kth Smallest Element in a BST.swift in Sources */,
 				10E4AB571CC26F67000793A5 /* 121. Best Time to Buy and Sell Stock.swift in Sources */,
 				DAFA12E21C9A79320034E3DC /* 260. Single Number III.swift in Sources */,
+				12C4D15F1CCD1A8200D4E80D /* 226. Invert Binary Tree.swift in Sources */,
 				12C2E27C1CAFA13500482FF5 /* 12. Integer to Roman.swift in Sources */,
 				DAE3B1901CA21F620024B888 /* 338. Counting Bits.swift in Sources */,
 				DA38F8B71CA1192800B85482 /* 206. Reverse Linked List.swift in Sources */,
