@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		107578781CC9B75E00736B2F /* 21. Merge Two Sorted Lists.swift in Sources */ = {isa = PBXBuildFile; fileRef = 107578771CC9B75E00736B2F /* 21. Merge Two Sorted Lists.swift */; };
 		1075787C1CCDE5E000736B2F /* 344. Reverse String.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1075787B1CCDE5E000736B2F /* 344. Reverse String.swift */; };
+		1075788A1CCEFB9C00736B2F /* 345. Reverse Vowels of a String.swift in Sources */ = {isa = PBXBuildFile; fileRef = 107578891CCEFB9C00736B2F /* 345. Reverse Vowels of a String.swift */; };
 		10928F761CBB40750064D5E1 /* 263. Ugly Number.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10928F751CBB40750064D5E1 /* 263. Ugly Number.swift */; };
 		1098CC301CADFE4600F22262 /* 96. Unique Binary Search Trees.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1098CC2F1CADFE4600F22262 /* 96. Unique Binary Search Trees.swift */; };
 		1098CC321CB3494A00F22262 /* 230. Kth Smallest Element in a BST.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1098CC311CB3494A00F22262 /* 230. Kth Smallest Element in a BST.swift */; };
@@ -69,6 +70,7 @@
 /* Begin PBXFileReference section */
 		107578771CC9B75E00736B2F /* 21. Merge Two Sorted Lists.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "21. Merge Two Sorted Lists.swift"; path = "leetcode-swift-cpp/21. Merge Two Sorted Lists.swift"; sourceTree = SOURCE_ROOT; };
 		1075787B1CCDE5E000736B2F /* 344. Reverse String.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "344. Reverse String.swift"; path = "leetcode-swift-cpp/344. Reverse String.swift"; sourceTree = SOURCE_ROOT; };
+		107578891CCEFB9C00736B2F /* 345. Reverse Vowels of a String.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "345. Reverse Vowels of a String.swift"; path = "leetcode-swift-cpp/345. Reverse Vowels of a String.swift"; sourceTree = SOURCE_ROOT; };
 		10928F751CBB40750064D5E1 /* 263. Ugly Number.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "263. Ugly Number.swift"; path = "leetcode-swift-cpp/263. Ugly Number.swift"; sourceTree = SOURCE_ROOT; };
 		1098CC2F1CADFE4600F22262 /* 96. Unique Binary Search Trees.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "96. Unique Binary Search Trees.swift"; path = "leetcode-swift-cpp/96. Unique Binary Search Trees.swift"; sourceTree = SOURCE_ROOT; };
 		1098CC311CB3494A00F22262 /* 230. Kth Smallest Element in a BST.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "230. Kth Smallest Element in a BST.swift"; path = "leetcode-swift-cpp/230. Kth Smallest Element in a BST.swift"; sourceTree = SOURCE_ROOT; };
@@ -198,6 +200,7 @@
 				12C4D15E1CCD1A8200D4E80D /* 226. Invert Binary Tree.swift */,
 				12C4D1601CCD1AB600D4E80D /* 283. Move Zeroes.swift */,
 				1075787B1CCDE5E000736B2F /* 344. Reverse String.swift */,
+				107578891CCEFB9C00736B2F /* 345. Reverse Vowels of a String.swift */,
 			);
 			name = algorithms;
 			sourceTree = "<group>";
@@ -287,6 +290,7 @@
 				DA77CC301C995D7D00764B3F /* main.swift in Sources */,
 				DAFA12DC1C9A79320034E3DC /* 268. Missing Number.swift in Sources */,
 				1098CC301CADFE4600F22262 /* 96. Unique Binary Search Trees.swift in Sources */,
+				1075788A1CCEFB9C00736B2F /* 345. Reverse Vowels of a String.swift in Sources */,
 				10928F761CBB40750064D5E1 /* 263. Ugly Number.swift in Sources */,
 				1075787C1CCDE5E000736B2F /* 344. Reverse String.swift in Sources */,
 				DAFA12DB1C9A79320034E3DC /* 122. Best Time to Buy and Sell Stock II.swift in Sources */,
