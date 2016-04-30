@@ -27,6 +27,7 @@
 		10EC8A4B1CACBD0100CE609D /* 137. Single Number II.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10EC8A4A1CACBD0100CE609D /* 137. Single Number II.swift */; };
 		120672EB1C9EAA5100D24F63 /* 94. Binary Tree Inorder Traversal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 120672EA1C9EAA5100D24F63 /* 94. Binary Tree Inorder Traversal.swift */; };
 		124781D71CB6AD0000CFD9CC /* 108. Convert Sorted Array to Binary Search Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 124781D61CB6AD0000CFD9CC /* 108. Convert Sorted Array to Binary Search Tree.swift */; };
+		12A573B21CD48F920069ADF3 /* 343. Integer Break.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 12A573B11CD48F920069ADF3 /* 343. Integer Break.cpp */; };
 		12C2E27C1CAFA13500482FF5 /* 12. Integer to Roman.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12C2E27B1CAFA13500482FF5 /* 12. Integer to Roman.swift */; };
 		12C2E27E1CB09CD400482FF5 /* 328. Odd Even Linked List.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12C2E27D1CB09CD400482FF5 /* 328. Odd Even Linked List.swift */; };
 		12C4D15D1CCD1A4E00D4E80D /* 104. Maximum Depth of Binary Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12C4D15C1CCD1A4E00D4E80D /* 104. Maximum Depth of Binary Tree.swift */; };
@@ -88,6 +89,7 @@
 		10EC8A4A1CACBD0100CE609D /* 137. Single Number II.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "137. Single Number II.swift"; path = "leetcode-swift-cpp/137. Single Number II.swift"; sourceTree = SOURCE_ROOT; };
 		120672EA1C9EAA5100D24F63 /* 94. Binary Tree Inorder Traversal.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "94. Binary Tree Inorder Traversal.swift"; path = "leetcode-swift-cpp/94. Binary Tree Inorder Traversal.swift"; sourceTree = SOURCE_ROOT; };
 		124781D61CB6AD0000CFD9CC /* 108. Convert Sorted Array to Binary Search Tree.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "108. Convert Sorted Array to Binary Search Tree.swift"; path = "leetcode-swift-cpp/108. Convert Sorted Array to Binary Search Tree.swift"; sourceTree = SOURCE_ROOT; };
+		12A573B11CD48F920069ADF3 /* 343. Integer Break.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = "343. Integer Break.cpp"; path = "leetcode-swift-cpp/343. Integer Break.cpp"; sourceTree = SOURCE_ROOT; };
 		12C2E27B1CAFA13500482FF5 /* 12. Integer to Roman.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "12. Integer to Roman.swift"; path = "leetcode-swift-cpp/12. Integer to Roman.swift"; sourceTree = SOURCE_ROOT; };
 		12C2E27D1CB09CD400482FF5 /* 328. Odd Even Linked List.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "328. Odd Even Linked List.swift"; path = "leetcode-swift-cpp/328. Odd Even Linked List.swift"; sourceTree = SOURCE_ROOT; };
 		12C4D15C1CCD1A4E00D4E80D /* 104. Maximum Depth of Binary Tree.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "104. Maximum Depth of Binary Tree.swift"; path = "leetcode-swift-cpp/104. Maximum Depth of Binary Tree.swift"; sourceTree = SOURCE_ROOT; };
@@ -201,6 +203,7 @@
 				12C4D1601CCD1AB600D4E80D /* 283. Move Zeroes.swift */,
 				1075787B1CCDE5E000736B2F /* 344. Reverse String.swift */,
 				107578891CCEFB9C00736B2F /* 345. Reverse Vowels of a String.swift */,
+				12A573B11CD48F920069ADF3 /* 343. Integer Break.cpp */,
 			);
 			name = algorithms;
 			sourceTree = "<group>";
@@ -306,6 +309,7 @@
 				DAFA12E11C9A79320034E3DC /* 238. Product of Array Except Self.swift in Sources */,
 				1098CC321CB3494A00F22262 /* 230. Kth Smallest Element in a BST.swift in Sources */,
 				10E4AB571CC26F67000793A5 /* 121. Best Time to Buy and Sell Stock.swift in Sources */,
+				12A573B21CD48F920069ADF3 /* 343. Integer Break.cpp in Sources */,
 				DAFA12E21C9A79320034E3DC /* 260. Single Number III.swift in Sources */,
 				12C4D15F1CCD1A8200D4E80D /* 226. Invert Binary Tree.swift in Sources */,
 				12C2E27C1CAFA13500482FF5 /* 12. Integer to Roman.swift in Sources */,
