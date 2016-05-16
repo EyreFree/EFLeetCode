@@ -16,6 +16,7 @@
 		1098CC971CB4ACC100F22262 /* 35. Search Insert Position.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1098CC961CB4ACC100F22262 /* 35. Search Insert Position.swift */; };
 		1098CCAF1CB7404200F22262 /* 237. Delete Node in a Linked List.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1098CCAE1CB7404200F22262 /* 237. Delete Node in a Linked List.cpp */; };
 		1098CCB11CB746B900F22262 /* 83. Remove Duplicates from Sorted List.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1098CCB01CB746B900F22262 /* 83. Remove Duplicates from Sorted List.swift */; };
+		10BE7A841CE950C500C99E54 /* 141. Linked List Cycle.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 10BE7A831CE950C500C99E54 /* 141. Linked List Cycle.cpp */; };
 		10E4AB511CBCF0FB000793A5 /* 202. Happy Number.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10E4AB501CBCF0FB000793A5 /* 202. Happy Number.swift */; };
 		10E4AB531CBDD52A000793A5 /* 231. Power of Two.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10E4AB521CBDD52A000793A5 /* 231. Power of Two.swift */; };
 		10E4AB551CBF22D6000793A5 /* 326. Power of Three.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10E4AB541CBF22D6000793A5 /* 326. Power of Three.swift */; };
@@ -80,6 +81,7 @@
 		1098CC961CB4ACC100F22262 /* 35. Search Insert Position.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "35. Search Insert Position.swift"; path = "leetcode-swift-cpp/35. Search Insert Position.swift"; sourceTree = SOURCE_ROOT; };
 		1098CCAE1CB7404200F22262 /* 237. Delete Node in a Linked List.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = "237. Delete Node in a Linked List.cpp"; path = "leetcode-swift-cpp/237. Delete Node in a Linked List.cpp"; sourceTree = SOURCE_ROOT; };
 		1098CCB01CB746B900F22262 /* 83. Remove Duplicates from Sorted List.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "83. Remove Duplicates from Sorted List.swift"; path = "leetcode-swift-cpp/83. Remove Duplicates from Sorted List.swift"; sourceTree = SOURCE_ROOT; };
+		10BE7A831CE950C500C99E54 /* 141. Linked List Cycle.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = "141. Linked List Cycle.cpp"; path = "leetcode-swift-cpp/141. Linked List Cycle.cpp"; sourceTree = SOURCE_ROOT; };
 		10E4AB501CBCF0FB000793A5 /* 202. Happy Number.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "202. Happy Number.swift"; path = "leetcode-swift-cpp/202. Happy Number.swift"; sourceTree = SOURCE_ROOT; };
 		10E4AB521CBDD52A000793A5 /* 231. Power of Two.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "231. Power of Two.swift"; path = "leetcode-swift-cpp/231. Power of Two.swift"; sourceTree = SOURCE_ROOT; };
 		10E4AB541CBF22D6000793A5 /* 326. Power of Three.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "326. Power of Three.swift"; path = "leetcode-swift-cpp/326. Power of Three.swift"; sourceTree = SOURCE_ROOT; };
@@ -210,6 +212,7 @@
 				12A573B11CD48F920069ADF3 /* 343. Integer Break.cpp */,
 				12A573B31CD491880069ADF3 /* 100. Same Tree.swift */,
 				12BB8C641CD64CE6000AC5CF /* 24. Swap Nodes in Pairs.cpp */,
+				10BE7A831CE950C500C99E54 /* 141. Linked List Cycle.cpp */,
 			);
 			name = algorithms;
 			sourceTree = "<group>";
@@ -306,6 +309,7 @@
 				1075787C1CCDE5E000736B2F /* 344. Reverse String.swift in Sources */,
 				DAFA12DB1C9A79320034E3DC /* 122. Best Time to Buy and Sell Stock II.swift in Sources */,
 				10E4AB621CC5DD30000793A5 /* 2. Add Two Numbers.swift in Sources */,
+				10BE7A841CE950C500C99E54 /* 141. Linked List Cycle.cpp in Sources */,
 				12EA931B1CA44F0E00E2050D /* 52. N-Queens II.swift in Sources */,
 				DAFA12DF1C9A79320034E3DC /* 144. Binary Tree Preorder Traversal.swift in Sources */,
 				DA90CC2A1CA8CAF7004B1988 /* 287. Find the Duplicate Number.swift in Sources */,
