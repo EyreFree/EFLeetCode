@@ -18,6 +18,7 @@
 		1098CCB11CB746B900F22262 /* 83. Remove Duplicates from Sorted List.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1098CCB01CB746B900F22262 /* 83. Remove Duplicates from Sorted List.swift */; };
 		10BE7A841CE950C500C99E54 /* 141. Linked List Cycle.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 10BE7A831CE950C500C99E54 /* 141. Linked List Cycle.cpp */; };
 		10BE7A861CEAA88000C99E54 /* 110. Balanced Binary Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10BE7A851CEAA88000C99E54 /* 110. Balanced Binary Tree.swift */; };
+		10BE7A881CEBFB4200C99E54 /* 27. Remove Element.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10BE7A871CEBFB4200C99E54 /* 27. Remove Element.swift */; };
 		10E4AB511CBCF0FB000793A5 /* 202. Happy Number.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10E4AB501CBCF0FB000793A5 /* 202. Happy Number.swift */; };
 		10E4AB531CBDD52A000793A5 /* 231. Power of Two.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10E4AB521CBDD52A000793A5 /* 231. Power of Two.swift */; };
 		10E4AB551CBF22D6000793A5 /* 326. Power of Three.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10E4AB541CBF22D6000793A5 /* 326. Power of Three.swift */; };
@@ -84,6 +85,7 @@
 		1098CCB01CB746B900F22262 /* 83. Remove Duplicates from Sorted List.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "83. Remove Duplicates from Sorted List.swift"; path = "leetcode-swift-cpp/83. Remove Duplicates from Sorted List.swift"; sourceTree = SOURCE_ROOT; };
 		10BE7A831CE950C500C99E54 /* 141. Linked List Cycle.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = "141. Linked List Cycle.cpp"; path = "leetcode-swift-cpp/141. Linked List Cycle.cpp"; sourceTree = SOURCE_ROOT; };
 		10BE7A851CEAA88000C99E54 /* 110. Balanced Binary Tree.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "110. Balanced Binary Tree.swift"; path = "leetcode-swift-cpp/110. Balanced Binary Tree.swift"; sourceTree = SOURCE_ROOT; };
+		10BE7A871CEBFB4200C99E54 /* 27. Remove Element.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "27. Remove Element.swift"; path = "leetcode-swift-cpp/27. Remove Element.swift"; sourceTree = SOURCE_ROOT; };
 		10E4AB501CBCF0FB000793A5 /* 202. Happy Number.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "202. Happy Number.swift"; path = "leetcode-swift-cpp/202. Happy Number.swift"; sourceTree = SOURCE_ROOT; };
 		10E4AB521CBDD52A000793A5 /* 231. Power of Two.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "231. Power of Two.swift"; path = "leetcode-swift-cpp/231. Power of Two.swift"; sourceTree = SOURCE_ROOT; };
 		10E4AB541CBF22D6000793A5 /* 326. Power of Three.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "326. Power of Three.swift"; path = "leetcode-swift-cpp/326. Power of Three.swift"; sourceTree = SOURCE_ROOT; };
@@ -216,6 +218,7 @@
 				12BB8C641CD64CE6000AC5CF /* 24. Swap Nodes in Pairs.cpp */,
 				10BE7A831CE950C500C99E54 /* 141. Linked List Cycle.cpp */,
 				10BE7A851CEAA88000C99E54 /* 110. Balanced Binary Tree.swift */,
+				10BE7A871CEBFB4200C99E54 /* 27. Remove Element.swift */,
 			);
 			name = algorithms;
 			sourceTree = "<group>";
@@ -304,6 +307,7 @@
 				DA77CC421C995DC100764B3F /* 258. Add Digits.swift in Sources */,
 				1098CCAF1CB7404200F22262 /* 237. Delete Node in a Linked List.cpp in Sources */,
 				DAFA12DD1C9A79320034E3DC /* 169. Majority Element.swift in Sources */,
+				10BE7A881CEBFB4200C99E54 /* 27. Remove Element.swift in Sources */,
 				DA77CC301C995D7D00764B3F /* main.swift in Sources */,
 				DAFA12DC1C9A79320034E3DC /* 268. Missing Number.swift in Sources */,
 				1098CC301CADFE4600F22262 /* 96. Unique Binary Search Trees.swift in Sources */,
