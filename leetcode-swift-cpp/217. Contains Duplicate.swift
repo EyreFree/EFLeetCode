@@ -9,10 +9,10 @@
 import Foundation
 
 class Solution217ContainsDuplicate {
-    func containsDuplicate(nums: [Int]) -> Bool {
+    func containsDuplicate(_ nums: [Int]) -> Bool {
         var sortedNums = Array(nums)
-        sortedNums.sortInPlace({$0 > $1})
-        for var i: Int = 0; i < sortedNums.count - 1; ++i {
+        sortedNums.sort(by: {$0 > $1})
+        for i: Int in 0 ..< sortedNums.count - 1 += 1 {
             if sortedNums[i] == sortedNums[i + 1] {
                 return true
             }

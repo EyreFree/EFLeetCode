@@ -12,20 +12,20 @@ import Foundation
 class Solution52NQueensII {
     var result = 0
 
-    func totalNQueens(n: Int) -> Int {
-        var column = Array<Bool>(count: n, repeatedValue: false)
-        var dia45 = Array<Bool>(count: 2 * n - 1, repeatedValue: false)
-        var dia135 = Array<Bool>(count: 2 * n - 1, repeatedValue: false)
+    func totalNQueens(_ n: Int) -> Int {
+        var column = Array<Bool>(repeating: false, count: n)
+        var dia45 = Array<Bool>(repeating: false, count: 2 * n - 1)
+        var dia135 = Array<Bool>(repeating: false, count: 2 * n - 1)
         helper(0, n: n, column: &column, dia45: &dia45, dia135: &dia135)
         return result
     }
 
-    func helper(row: Int, n: Int, inout column: Array<Bool>, inout dia45: Array<Bool>, inout dia135: Array<Bool>) {
+    func helper(_ row: Int, n: Int, column: inout Array<Bool>, dia45: inout Array<Bool>, dia135: inout Array<Bool>) {
         if row == n {
-            ++result
+            result += 1
             return
         }
-        for var col: Int = 0; col < n; ++col {
+        for col: Int in 0 ..< n += 1 {
             if (!column[col] && !dia45[col + row] && !dia135[n - 1 - row + col]) {
                 column[col] = true
                 dia45[col + row] = true

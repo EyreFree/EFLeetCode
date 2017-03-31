@@ -9,7 +9,7 @@
 import Foundation
 
 class Solution344ReverseString {
-    func reverseString(s: String) -> String {
+    func reverseString(_ s: String) -> String {
         var charsArray = [Character](s.characters)
         var i = 0, j = charsArray.count - 1
         while i < j {

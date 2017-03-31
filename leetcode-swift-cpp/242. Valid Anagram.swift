@@ -9,14 +9,14 @@
 import Foundation
 
 class Solution242ValidAnagram {
-    func isAnagram(s: String, _ t: String) -> Bool {
+    func isAnagram(_ s: String, _ t: String) -> Bool {
         if s.characters.count != t.characters.count {
             return false
         }
         return sortString(s) == sortString(t)
     }
 
-    func sortString(input: String) -> String {
-        return String(Array(input.characters).sort())
+    func sortString(_ input: String) -> String {
+        return String(Array(input.characters).sorted())
     }
 }

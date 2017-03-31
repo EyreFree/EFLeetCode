@@ -22,11 +22,11 @@ import Foundation
  * }
  */
 class Solution226InvertBinaryTree {
-    func invertTree(root: TreeNode?) -> TreeNode? {
+    func invertTree(_ root: TreeNode?) -> TreeNode? {
         return action(root)
     }
 
-    func action(root: TreeNode?) -> TreeNode? {
+    func action(_ root: TreeNode?) -> TreeNode? {
         if let rootTree = root {
             let leftTree = rootTree.left
             let rightTree = rootTree.right

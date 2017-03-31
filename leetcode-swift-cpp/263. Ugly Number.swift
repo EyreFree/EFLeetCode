@@ -9,7 +9,7 @@
 import Foundation
 
 class Solution263UglyNumber {
-    func isUgly(num: Int) -> Bool {
+    func isUgly(_ num: Int) -> Bool {
         if 0 != num {
             var numNow = num
             while true {
@@ -29,7 +29,7 @@ class Solution263UglyNumber {
         return false
     }
 
-    func canDo(num: Int, todo: Int) -> Bool {
+    func canDo(_ num: Int, todo: Int) -> Bool {
         let test = num / todo
         return test * todo == num
     }

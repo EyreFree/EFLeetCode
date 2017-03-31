@@ -9,10 +9,10 @@
 import Foundation
 
 //Definition for a binary tree node.
-public class TreeNode {
-    public var val: Int
-    public var left: TreeNode?
-    public var right: TreeNode?
+open class TreeNode {
+    open var val: Int
+    open var left: TreeNode?
+    open var right: TreeNode?
     public init(_ val: Int) {
         self.val = val
         self.left = nil
@@ -21,11 +21,11 @@ public class TreeNode {
 }
 
 class Solution144BinaryTreePreorderTraversal {
-    func preorderTraversal(root: TreeNode?) -> [Int] {
+    func preorderTraversal(_ root: TreeNode?) -> [Int] {
         return action(root)
     }
 
-    func action(root: TreeNode?) -> [Int] {
+    func action(_ root: TreeNode?) -> [Int] {
         var rtn = Array<Int>()
         if let node = root {
             rtn += [node.val]

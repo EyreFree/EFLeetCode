@@ -27,9 +27,9 @@ import Foundation
 //}
 
 class Solution70ClimbingStairs {
-    func climbStairs(n: Int) -> Int {
+    func climbStairs(_ n: Int) -> Int {
         if n > 2 {
-            var dp = [Int](count: 3, repeatedValue: 0)
+            var dp = [Int](repeating: 0, count: 3)
             dp[0] = 1
             dp[1] = 1
             for index in 2...n {

@@ -9,7 +9,7 @@
 import Foundation
 
 class Solution292NimGame {
-    func canWinNim(n: Int) -> Bool {
+    func canWinNim(_ n: Int) -> Bool {
         return 0 != n % 4
     }
 }

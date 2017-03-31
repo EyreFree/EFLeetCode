@@ -9,7 +9,7 @@
 import Foundation
 
 class Solution345ReverseVowelsofaString {
-    func reverseVowels(s: String) -> String {
+    func reverseVowels(_ s: String) -> String {
         var charsArray = [Character](s.characters)
         var i = 0, j = charsArray.count - 1
         while i < j {
@@ -24,7 +24,7 @@ class Solution345ReverseVowelsofaString {
         return String(charsArray)
     }
 
-    func find_first_of(chars: [Character], index: Int) -> Int {
+    func find_first_of(_ chars: [Character], index: Int) -> Int {
         if index < chars.count {
             for i in index..<chars.count {
                 if isVowels(chars[i]) {
@@ -35,9 +35,9 @@ class Solution345ReverseVowelsofaString {
         return chars.count
     }
 
-    func find_last_of(chars: [Character], index: Int) -> Int {
+    func find_last_of(_ chars: [Character], index: Int) -> Int {
         if index > -1 {
-            for var i: Int = index; i >= 0; --i {
+            for var i: Int = index; i >= 0; i -= 1 {
                 if isVowels(chars[i]) {
                     return i
                 }
@@ -46,7 +46,7 @@ class Solution345ReverseVowelsofaString {
         return -1
     }
 
-    func isVowels(char: Character) -> Bool {
+    func isVowels(_ char: Character) -> Bool {
         let vowelsChars: [Character] = ["a", "e", "i", "o", "u", "A", "E", "I", "O", "U"]
         for vowelschar in vowelsChars {
             if vowelschar == char {

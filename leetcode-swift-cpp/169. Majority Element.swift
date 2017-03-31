@@ -9,7 +9,7 @@
 import Foundation
 
 class Solution169MajorityElement {
-    func majorityElement(nums: [Int]) -> Int {
+    func majorityElement(_ nums: [Int]) -> Int {
         var majEle = nums[0]
         var majCount = 0
 
@@ -18,9 +18,9 @@ class Solution169MajorityElement {
                 majEle = num
                 majCount = 1
             } else if num == majEle {
-                ++majCount
+                majCount += 1
             } else {
-                --majCount
+                majCount -= 1
             }
         }
 

@@ -22,11 +22,11 @@ import Foundation
  * }
  */
 class Solution110BalancedBinaryTree {
-    func isBalanced(root: TreeNode?) -> Bool {
+    func isBalanced(_ root: TreeNode?) -> Bool {
         return checkBalance(root, height: 0).0
     }
 
-    func checkBalance(root: TreeNode?, height: Int) -> (Bool, Int) {
+    func checkBalance(_ root: TreeNode?, height: Int) -> (Bool, Int) {
         if let tryRoot = root {
             let leftResult = checkBalance(tryRoot.left, height: 0)
             if !leftResult.0 {

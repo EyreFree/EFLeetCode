@@ -9,9 +9,9 @@
 import Foundation
 
 //Definition for singly-linked list.
-public class ListNode {
-    public var val: Int
-    public var next: ListNode?
+open class ListNode {
+    open var val: Int
+    open var next: ListNode?
     public init(_ val: Int) {
         self.val = val
         self.next = nil
@@ -19,7 +19,7 @@ public class ListNode {
 }
 
 class Solution206ReverseLinkedList {
-    func reverseList(head: ListNode?) -> ListNode? {
+    func reverseList(_ head: ListNode?) -> ListNode? {
         var resultHead: ListNode!
         var headNode = head
         if nil != headNode {

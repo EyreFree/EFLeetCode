@@ -9,7 +9,7 @@
 import Foundation
 
 class Solution231PowerofTwo {
-    func isPowerOfTwo(n: Int) -> Bool {
+    func isPowerOfTwo(_ n: Int) -> Bool {
         if 0 < n {
             if 0 == (n & (n - 1)) {
                 return true

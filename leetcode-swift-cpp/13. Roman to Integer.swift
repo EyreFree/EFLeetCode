@@ -19,8 +19,8 @@ class Solution13RomantoInteger {
         "M" : 1000,
     ]
 
-    func romanToInt(s: String) -> Int {
-        let reversedInput = s.characters.reverse()
+    func romanToInt(_ s: String) -> Int {
+        let reversedInput = s.characters.reversed()
         var preValue = 0
         return reversedInput.reduce(0) {
             (currentValue, chn) -> Int in

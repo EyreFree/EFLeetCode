@@ -24,12 +24,12 @@ import Foundation
 class Solution230KthSmallestElementinaBST {
     var ans = 0
 
-    func kthSmallest(root: TreeNode?, _ k: Int) -> Int {
+    func kthSmallest(_ root: TreeNode?, _ k: Int) -> Int {
         helper(root, k: k)
         return ans
     }
 
-    func helper(root: TreeNode?, k: Int) -> Int {
+    func helper(_ root: TreeNode?, k: Int) -> Int {
         if root == nil {
             return 0
         }

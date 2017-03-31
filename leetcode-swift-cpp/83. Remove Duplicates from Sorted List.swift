@@ -20,7 +20,7 @@ import Foundation
  * }
  */
 class Solution83RemoveDuplicatesfromSortedList {
-    func deleteDuplicates(head: ListNode?) -> ListNode? {
+    func deleteDuplicates(_ head: ListNode?) -> ListNode? {
         if nil != head {
             var tryNode = head
             while nil != tryNode?.next {
@@ -36,7 +36,7 @@ class Solution83RemoveDuplicatesfromSortedList {
         return head
     }
 
-    func deleteNode(node: ListNode) {
+    func deleteNode(_ node: ListNode) {
         let tempNode = node.next
         node.val = tempNode!.val
         node.next = tempNode!.next

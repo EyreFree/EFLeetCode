@@ -9,7 +9,7 @@
 import Foundation
 
 class Solution136SingleNumber {
-    func singleNumber(nums: [Int]) -> Int {
+    func singleNumber(_ nums: [Int]) -> Int {
         var rtn = 0
         for num in nums {
             rtn = rtn ^ num

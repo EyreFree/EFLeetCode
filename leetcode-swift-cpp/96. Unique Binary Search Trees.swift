@@ -9,8 +9,8 @@
 import Foundation
 
 class Solution96UniqueBinarySearchTrees {
-    func numTrees(n: Int) -> Int {
-        var dp = [Int](count: n + 1, repeatedValue: 0)
+    func numTrees(_ n: Int) -> Int {
+        var dp = [Int](repeating: 0, count: n + 1)
         dp[0] = 1
         dp[1] = 1
         if n >= 2 {

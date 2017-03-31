@@ -9,13 +9,13 @@
 import Foundation
 
 class Solution171ExcelSheetColumnNumber {
-    func titleToNumber(s: String) -> Int {
+    func titleToNumber(_ s: String) -> Int {
         let len = s.characters.count
         var amount = 0
         var turn = 0
         let baseCharacter: Character = "A"
         for ele in s.characters {
-            ++turn
+            turn += 1
             amount += (
                 (char2Int(ele) - char2Int(baseCharacter) + 1) *
                     Int(pow(26, Double(len - turn)))
@@ -24,7 +24,7 @@ class Solution171ExcelSheetColumnNumber {
         return Int(amount)
     }
 
-    func char2Int(character: Character) -> Int {
+    func char2Int(_ character: Character) -> Int {
         var rtn = 0
         for scalar in String(character).unicodeScalars {
             rtn = Int(scalar.value)

@@ -9,8 +9,8 @@
 import Foundation
 
 class Solution35SearchInsertPosition {
-    func searchInsert(nums: [Int], _ target: Int) -> Int {
-        for (index, value) in nums.enumerate() {
+    func searchInsert(_ nums: [Int], _ target: Int) -> Int {
+        for (index, value) in nums.enumerated() {
             if value == target {
                 return index
             } else if target < value {

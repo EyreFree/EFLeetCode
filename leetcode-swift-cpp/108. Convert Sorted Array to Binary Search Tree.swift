@@ -22,11 +22,11 @@ import Foundation
  * }
  */
 class Solution108ConvertSortedArraytoBinarySearchTree {
-    func sortedArrayToBST(nums: [Int]) -> TreeNode? {
+    func sortedArrayToBST(_ nums: [Int]) -> TreeNode? {
         return (0 == nums.count ? nil : getTreeNode(nums, start: 0, end: nums.count - 1))
     }
 
-    func getTreeNode(nums: [Int], start: Int, end: Int) -> TreeNode?{
+    func getTreeNode(_ nums: [Int], start: Int, end: Int) -> TreeNode?{
         if start > end {
             return nil
         }

@@ -9,7 +9,7 @@
 import Foundation
 
 class Solution12IntegertoRoman {
-    func intToRoman(num: Int) -> String {
+    func intToRoman(_ num: Int) -> String {
         let g = ["", "I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX"]
         let s = ["", "X", "XX", "XXX", "XL", "L", "LX", "LXX", "LXXX", "XC"]
         let b = ["", "C", "CC", "CCC", "CD", "D", "DC", "DCC", "DCCC", "CM"]

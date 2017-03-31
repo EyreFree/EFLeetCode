@@ -37,10 +37,10 @@ import Foundation
 //}
 
 class Solution318MaximumProductofWordLengths {
-    func maxProduct(words: [String]) -> Int {
+    func maxProduct(_ words: [String]) -> Int {
         var maxCount = Dictionary<Int, Int>()
         let baseCharacter: Character = "a"
-        for var i: Int = 0; i < words.count; ++i {
+        for i: Int in 0 ..< words.count += 1 {
             var mask = 0
             for char in words[i].characters {
                 mask = mask | (1 << (char2Int(char) - char2Int(baseCharacter)))
@@ -59,7 +59,7 @@ class Solution318MaximumProductofWordLengths {
         return result
     }
 
-    func char2Int(character: Character) -> Int {
+    func char2Int(_ character: Character) -> Int {
         var rtn = 0
         for scalar in String(character).unicodeScalars {
             rtn = Int(scalar.value)

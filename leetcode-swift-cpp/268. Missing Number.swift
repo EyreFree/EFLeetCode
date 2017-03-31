@@ -9,10 +9,10 @@
 import Foundation
 
 class Solution268MissingNumber {
-    func missingNumber(nums: [Int]) -> Int {
+    func missingNumber(_ nums: [Int]) -> Int {
         let len = nums.count
         var sum = 0
-        for var i: Int = 0; i < len; ++i {
+        for i: Int in 0 ..< len += 1 {
             sum += nums[i] - i
         }
         return len - sum

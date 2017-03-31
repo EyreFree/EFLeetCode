@@ -22,11 +22,11 @@ import Foundation
  * }
  */
 class Solution100SameTree {
-    func isSameTree(p: TreeNode?, _ q: TreeNode?) -> Bool {
+    func isSameTree(_ p: TreeNode?, _ q: TreeNode?) -> Bool {
         return isSame(p, q: q)
     }
 
-    func isSame(p: TreeNode?, q: TreeNode?) -> Bool {
+    func isSame(_ p: TreeNode?, q: TreeNode?) -> Bool {
         if let realP = p, let realQ = q {
             return (realP.val == realQ.val)
                 && isSame(realP.left, q: realQ.left)

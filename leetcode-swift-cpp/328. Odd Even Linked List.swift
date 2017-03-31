@@ -9,7 +9,7 @@
 import Foundation
 
 class Solution328OddEvenLinkedList {
-    func oddEvenList(head: ListNode?) -> ListNode? {
+    func oddEvenList(_ head: ListNode?) -> ListNode? {
         if nil == head || nil == head?.next {
             return head
         }

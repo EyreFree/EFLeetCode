@@ -9,11 +9,11 @@
 import Foundation
 
 class Solution94BinaryTreeInorderTraversal {
-    func inorderTraversal(root: TreeNode?) -> [Int] {
+    func inorderTraversal(_ root: TreeNode?) -> [Int] {
         return action(root)
     }
 
-    func action(root: TreeNode?) -> [Int] {
+    func action(_ root: TreeNode?) -> [Int] {
         var rtn = Array<Int>()
         if let node = root {
             rtn += action(node.left)

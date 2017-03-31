@@ -9,7 +9,7 @@
 import Foundation
 
 class Solution342PowerofFour {
-    func isPowerOfFour(num: Int) -> Bool {
+    func isPowerOfFour(_ num: Int) -> Bool {
         var todo = num
         while (todo != 0) && (todo % 4 == 0) {
             todo /= 4

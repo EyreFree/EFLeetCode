@@ -9,7 +9,7 @@
 import Foundation
 
 class Solution137SingleNumberII {
-    func singleNumber(nums: [Int]) -> Int {
+    func singleNumber(_ nums: [Int]) -> Int {
         var counterOne = 0
         var counterTwo = 0
 

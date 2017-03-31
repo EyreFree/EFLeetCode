@@ -9,11 +9,11 @@
 import Foundation
 
 class Solution27RemoveElement {
-    func removeElement(inout nums: [Int], _ val: Int) -> Int {
+    func removeElement(_ nums: inout [Int], _ val: Int) -> Int {
         let count = nums.count
-        for var i = count - 1; i >= 0; --i {
+        for var i = count - 1; i >= 0; i -= 1 {
             if nums[i] == val {
-                nums.removeAtIndex(i)
+                nums.remove(at: i)
             }
         }
         return nums.count

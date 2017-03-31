@@ -9,7 +9,7 @@
 import Foundation
 
 class Solution202HappyNumber {
-    func isHappy(n: Int) -> Bool {
+    func isHappy(_ n: Int) -> Bool {
         var test = n
         var res = [Int]()
 
@@ -29,7 +29,7 @@ class Solution202HappyNumber {
         }
     }
 
-    func getDigs(n: Int) -> [Int] {
+    func getDigs(_ n: Int) -> [Int] {
         return n != 0 ? [n % 10] + getDigs(n / 10) : []
     }
 }

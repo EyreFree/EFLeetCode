@@ -23,7 +23,7 @@ class Solution21MergeTwoSortedLists {
     var listRtn: ListNode!
     var listNow: ListNode!
 
-    func mergeTwoLists(l1: ListNode?, _ l2: ListNode?) -> ListNode? {
+    func mergeTwoLists(_ l1: ListNode?, _ l2: ListNode?) -> ListNode? {
         var l1Now = l1
         var l2Now = l2
 
@@ -50,7 +50,7 @@ class Solution21MergeTwoSortedLists {
         return listRtn
     }
 
-    func addList(val: Int) {
+    func addList(_ val: Int) {
         if let tryList = listNow {
             tryList.next = ListNode(val)
             listNow = tryList.next

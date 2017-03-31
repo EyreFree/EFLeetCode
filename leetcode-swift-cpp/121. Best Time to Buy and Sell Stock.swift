@@ -9,7 +9,7 @@
 import Foundation
 
 class Solution121BestTimetoBuyandSellStock {
-    func maxProfit(prices: [Int]) -> Int {
+    func maxProfit(_ prices: [Int]) -> Int {
         var maxPro = 0
         var minPrice = Int.max
         for i in 0..<prices.count {

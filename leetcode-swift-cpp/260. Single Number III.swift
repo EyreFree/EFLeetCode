@@ -9,15 +9,15 @@
 import Foundation
 
 class Solution260SingleNumberIII {
-    func singleNumber(nums: [Int]) -> [Int] {
+    func singleNumber(_ nums: [Int]) -> [Int] {
         let n = nums.count
         var res = 0
         var a = 0, b = 0
-        for var i = 0; i < n; ++i {
+        for i in 0 ..< n += 1 {
             res = res ^ nums[i]
         }
         let cmp = res & (res - 1) ^ res
-        for var i = 0; i < n; ++i {
+        for i in 0 ..< n += 1 {
             if 0 != (cmp & nums[i]) {
                 a = a ^ nums[i]
             } else {

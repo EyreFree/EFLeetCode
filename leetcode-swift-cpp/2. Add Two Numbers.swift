@@ -9,7 +9,7 @@
 import Foundation
 
 class Solution2AddTwoNumbers {
-    func addTwoNumbers(l1: ListNode?, _ l2: ListNode?) -> ListNode? {
+    func addTwoNumbers(_ l1: ListNode?, _ l2: ListNode?) -> ListNode? {
         let rtnList = ListNode(0)
         var nowList1 = l1
         var nowList2 = l2

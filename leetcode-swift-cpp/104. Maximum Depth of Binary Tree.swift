@@ -22,11 +22,11 @@ import Foundation
  * }
  */
 class Solution104MaximumDepthofBinaryTree {
-    func maxDepth(root: TreeNode?) -> Int {
+    func maxDepth(_ root: TreeNode?) -> Int {
         return getMaxDeepValue(root, value: 1)
     }
 
-    func getMaxDeepValue(root: TreeNode?, value: Int = 0) -> Int {
+    func getMaxDeepValue(_ root: TreeNode?, value: Int = 0) -> Int {
         if let rootRel = root {
             var valLeft = value, valueRight = value
             if let leftTree = rootRel.left {

@@ -9,7 +9,7 @@
 import Foundation
 
 class Solution258AddDigits {
-    func addDigits(num: Int) -> Int {
+    func addDigits(_ num: Int) -> Int {
         return (num - 1) % 9 + 1
     }
 }

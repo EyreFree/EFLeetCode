@@ -9,7 +9,7 @@
 import Foundation
 
 class Solution338CountingBits {
-    func countBits(num: Int) -> [Int] {
+    func countBits(_ num: Int) -> [Int] {
         var result = Array<Int>()
         for number in 0...num {
             let tail = (number == 0 ? 0 : result[number / 2])

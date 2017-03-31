@@ -9,7 +9,7 @@
 import Foundation
 
 class Solution319BulbSwitcher {
-    func bulbSwitch(n: Int) -> Int {
+    func bulbSwitch(_ n: Int) -> Int {
         return Int(sqrt(Double(n)))
     }
 }

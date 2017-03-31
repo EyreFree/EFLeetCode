@@ -9,11 +9,11 @@
 import Foundation
 
 class Solution287FindtheDuplicateNumber {
-    func findDuplicate(nums: [Int]) -> Int {
+    func findDuplicate(_ nums: [Int]) -> Int {
         var sortedNums = Array(nums)
-        sortedNums.sortInPlace({$0 > $1})
+        sortedNums.sort(by: {$0 > $1})
         var duplicateNum = 0
-        for var i: Int = 0; i < sortedNums.count - 1; ++i {
+        for i: Int in 0 ..< sortedNums.count - 1 += 1 {
             if sortedNums[i] == sortedNums[i + 1] {
                 duplicateNum = sortedNums[i]
                 break

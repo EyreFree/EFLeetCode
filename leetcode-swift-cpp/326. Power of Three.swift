@@ -9,7 +9,7 @@
 import Foundation
 
 class Solution326PowerofThree {
-    func isPowerOfThree(n: Int) -> Bool {
+    func isPowerOfThree(_ n: Int) -> Bool {
         let Max3PowerInt = 1162261467 // 3^19
         return n <= 0 || n > Max3PowerInt ? false : Max3PowerInt % n == 0;
     }
