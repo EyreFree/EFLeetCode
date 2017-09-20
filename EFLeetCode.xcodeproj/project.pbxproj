@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		129C90BF1F70FE240012C3F0 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 129C90BE1F70FE240012C3F0 /* main.c */; };
 		129C90C81F7107E60012C3F0 /* 1.TwoSum.c in Sources */ = {isa = PBXBuildFile; fileRef = 129C90C71F7107E60012C3F0 /* 1.TwoSum.c */; };
+		129C90CB1F712C370012C3F0 /* 2.AddTwoNumbers.c in Sources */ = {isa = PBXBuildFile; fileRef = 129C90C91F712C370012C3F0 /* 2.AddTwoNumbers.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -27,6 +28,7 @@
 		129C90BB1F70FE240012C3F0 /* EFLeetCode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = EFLeetCode; sourceTree = BUILT_PRODUCTS_DIR; };
 		129C90BE1F70FE240012C3F0 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 		129C90C71F7107E60012C3F0 /* 1.TwoSum.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = 1.TwoSum.c; sourceTree = "<group>"; };
+		129C90C91F712C370012C3F0 /* 2.AddTwoNumbers.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = 2.AddTwoNumbers.c; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +71,7 @@
 			isa = PBXGroup;
 			children = (
 				129C90C71F7107E60012C3F0 /* 1.TwoSum.c */,
+				129C90C91F712C370012C3F0 /* 2.AddTwoNumbers.c */,
 			);
 			path = all;
 			sourceTree = "<group>";
@@ -131,6 +134,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				129C90CB1F712C370012C3F0 /* 2.AddTwoNumbers.c in Sources */,
 				129C90BF1F70FE240012C3F0 /* main.c in Sources */,
 				129C90C81F7107E60012C3F0 /* 1.TwoSum.c in Sources */,
 			);
